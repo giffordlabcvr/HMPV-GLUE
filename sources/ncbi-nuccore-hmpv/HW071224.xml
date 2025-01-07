@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+                
+    
+    
+    <GBSeq_locus>HW071224</GBSeq_locus>
+                
+    
+    
+    <GBSeq_length>1620</GBSeq_length>
+                
+    
+    
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+                
+    
+    
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+                
+    
+    
+    <GBSeq_topology>linear</GBSeq_topology>
+                
+    
+    
+    <GBSeq_division>PAT</GBSeq_division>
+                
+    
+    
+    <GBSeq_update-date>28-MAY-2013</GBSeq_update-date>
+                
+    
+    
+    <GBSeq_create-date>28-MAY-2013</GBSeq_create-date>
+                
+    
+    
+    <GBSeq_definition>JP 2012530761-A/3: VACCINE</GBSeq_definition>
+                
+    
+    
+    <GBSeq_primary-accession>HW071224</GBSeq_primary-accession>
+                
+    
+    
+    <GBSeq_accession-version>HW071224.1</GBSeq_accession-version>
+                
+    
+    
+    <GBSeq_other-seqids>
+                              
+        
+        
+        <GBSeqid>dbj|HW071224.1|</GBSeqid>
+                              
+        
+        
+        <GBSeqid>pat|JP|2012530761|3</GBSeqid>
+                              
+        
+        
+        <GBSeqid>gi|507459549</GBSeqid>
+                            
+    
+    
+    </GBSeq_other-seqids>
+                
+    
+    
+    <GBSeq_keywords>
+                              
+        
+        
+        <GBKeyword>JP 2012530761-A/3</GBKeyword>
+                            
+    
+    
+    </GBSeq_keywords>
+                
+    
+    
+    <GBSeq_source>human metapneumovirus (HMPV)</GBSeq_source>
+                
+    
+    
+    <GBSeq_organism>human metapneumovirus</GBSeq_organism>
+                
+    
+    
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Haploviricotina; Monjiviricetes; Mononegavirales; Pneumoviridae; Metapneumovirus; Metapneumovirus hominis</GBSeq_taxonomy>
+                
+    
+    
+    <GBSeq_references>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>1</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..1620</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Vassilev,V.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Van-scherpenzeel-thim,V.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Rheault,P.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Blais,N.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>VACCINE</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>JP2012530761-A 3 06-DEC-2012 ID BIOMEDICAL CORPORATION OF QUEBEC,GLAXOSMITHKLINE BIOLOGICALS SA, Normand BLAIS,Patrick RHEAULT,Virginie VAN-SCHERPENZEEL-THIM, Ventzislav VASSILEV</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                            
+    
+    
+    </GBSeq_references>
+                
+    
+    
+    <GBSeq_comment>OS human metapneumovirus~PN JP 2012530761-A/3~PD 06-DEC-2012~PF 24-JUN-2010 JP 2012516745~PR 24-JUN-2009 US 61/219958~PA ID BIOMEDICAL CORPORATION OF QUEBEC,GLAXOSMITHKLINE PA BIOLOGICALS SA,~PA Normand BLAIS,Patrick RHEAULT,Virginie VAN-SCHERPENZEEL-THIM, PA Ventzislav VASSILEV~PI ventzislav vassilev,virginie van-scherpenzeel-thim,patrick PI rheault,~PI normand blais~PT 'VACCINE'~PS N5~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+                
+    
+    
+    <GBSeq_feature-table>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>source</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..1620</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>1620</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>HW071224.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>organism</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>human metapneumovirus</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>mol_type</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>unassigned DNA</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>db_xref</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>taxon:162145</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                            
+    
+    
+    </GBSeq_feature-table>
+                
+    
+    
+    <GBSeq_sequence>atgtcttggaaagtggtgatcattttttcattgctaataacacctcaacacggtcttaaagagagctacctagaagaatcatgtagcactataactgagggatatcttagtgttctgaggacaggttggtataccaacgtttttacattagaggtgggtgatgtagaaaaccttacatgttctgatggacctagcctaataaaaacagaattagatctgaccaaaagtgcactaagagagctcaaaacagtctctgctgaccaattggcaagagaggaacaaattgagaatcccagacaatctaggtttgttctaggagcaatagcactcggtgttgcaacagcagctgcagtcacagcaggtgttgcaattgccaaaaccatccggcttgagagtgaagtcacagcaattaagaatgccctcaaaacgaccaatgaagcagtatctacattggggaatggagttcgagtgttggcaactgcagtgagagagctgaaagactttgtgagcaagaatttaactcgtgcaatcaacaaaaacaagtgcgacattgatgacctaaaaatggccgttagcttcagtcaattcaacagaaggtttctaaatgttgtgcggcaattttcagacaatgctggaataacaccagcaatatctttggacttaatgacagatgctgaactagccagggccgtttctaacatgccgacatctgcaggacaaataaaattgatgttggagaaccgtgcgatggtgcgaagaaaggggttcggaatcctgataggggtctacgggagctccgtaatttacatggtgcagctgccaatctttggcgttatagacacgccttgctggatagtaaaagcagccccttcttgttccgaaaaaaagggaaactatgcttgcctcttaagagaagaccaagggtggtattgtcagaatgcagggtcaactgtttactacccaaatgagaaagactgtgaaacaagaggagaccatgtcttttgcgacacagcagcgggaattaatgttgctgagcaatcaaaggagtgcaacatcaacatatccactacaaattacccatgcaaagtcagcacaggaagacatcctatcagtatggttgcactgtctcctcttggggctctggttgcttgctacaaaggagtaagctgttccattggcagcaacagagtagggatcatcaagcagctgaacaagggttgctcctatataaccaaccaagatgcagacacagtgacaatagacaacactgtatatcagctaagcaaagttgagggtgaacagcatgttataaaaggcagaccagtgtcaagcagctttgatccaatcaagtttcctgaagatcaattcaatgttgcacttgaccaagtttttgagaacattgaaaacagccaggccttggtagatcaatcaaacagaatcctaagcagtgcagagaaagggaatactggcttcatcattgtaataattctaattgctgtccttggctctagcatgatcctagtgagcatcttcattataatcaagaaaacaaagaaaccaacgggagcacctccagagctgagtggtgtcacaaacaatggcttcataccacataattag</GBSeq_sequence>
+              
+
+
+</GBSeq>

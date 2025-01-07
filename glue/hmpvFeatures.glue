@@ -1,0 +1,77 @@
+  create feature whole_genome "Whole genome"
+  feature whole_genome set metatag INFORMATIONAL true
+
+  create feature mRNA -p whole_genome "messengerRNA"
+  feature mRNA set metatag INFORMATIONAL true
+
+  create feature NP -p whole_genome "Nucleoprotein"
+  feature NP
+    set field displayName "NP"
+    set metatag OWN_CODON_NUMBERING true
+    set metatag CODES_AMINO_ACIDS true
+    #set metatag CODON_LABELER_MODULE filoviridaeKuiken2006CodonLabeler
+    exit
+
+  create feature P -p whole_genome "Phosphoprotein"
+  feature P
+    set field displayName "Phosphoprotein"
+    set metatag OWN_CODON_NUMBERING true
+    set metatag CODES_AMINO_ACIDS true
+    #set metatag CODON_LABELER_MODULE filoviridaeKuiken2006CodonLabeler
+    exit
+
+  create feature M -p whole_genome "Matrix protein"
+  feature M
+    set field displayName "M"
+    set metatag OWN_CODON_NUMBERING true
+    set metatag CODES_AMINO_ACIDS true
+    #set metatag CODON_LABELER_MODULE filoviridaeKuiken2006CodonLabeler
+    exit
+
+  create feature F -p whole_genome "Fusion protein"
+  feature F
+    set field displayName "F"
+    set metatag OWN_CODON_NUMBERING true
+    set metatag CODES_AMINO_ACIDS true
+    #set metatag CODON_LABELER_MODULE filoviridaeKuiken2006CodonLabeler
+    exit
+
+  create feature M2_1 -p whole_genome "M2_1"
+  feature M2_1
+    set field displayName "M2_1"
+    set metatag OWN_CODON_NUMBERING true
+    set metatag CODES_AMINO_ACIDS true
+    #set metatag CODON_LABELER_MODULE filoviridaeKuiken2006CodonLabeler
+    exit
+
+  create feature M2_2 -p whole_genome "M2_2"
+  feature M2_2
+    set field displayName "M2_2"
+    set metatag OWN_CODON_NUMBERING true
+    set metatag CODES_AMINO_ACIDS true
+    #set metatag CODON_LABELER_MODULE filoviridaeKuiken2006CodonLabeler
+    exit
+
+  create feature G -p whole_genome "G"
+  feature G
+    set field displayName "G"
+    set metatag OWN_CODON_NUMBERING true
+    set metatag CODES_AMINO_ACIDS true
+    #set metatag CODON_LABELER_MODULE filoviridaeKuiken2006CodonLabeler
+    exit
+
+  create feature SH -p whole_genome "SH"
+  feature SH
+    set field displayName "SH"
+    set metatag OWN_CODON_NUMBERING true
+    set metatag CODES_AMINO_ACIDS true
+    #set metatag CODON_LABELER_MODULE filoviridaeKuiken2006CodonLabeler
+    exit
+
+  create feature L -p whole_genome "Large protein / RNA polymerase"
+  feature L
+    set field displayName "L"
+    set metatag OWN_CODON_NUMBERING true
+    set metatag CODES_AMINO_ACIDS true
+    #set metatag CODON_LABELER_MODULE filoviridaeKuiken2006CodonLabeler
+    exit

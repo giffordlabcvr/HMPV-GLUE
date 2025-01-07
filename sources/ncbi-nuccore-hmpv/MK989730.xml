@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+                
+    
+    
+    <GBSeq_locus>MK989730</GBSeq_locus>
+                
+    
+    
+    <GBSeq_length>13234</GBSeq_length>
+                
+    
+    
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+                
+    
+    
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+                
+    
+    
+    <GBSeq_topology>linear</GBSeq_topology>
+                
+    
+    
+    <GBSeq_division>VRL</GBSeq_division>
+                
+    
+    
+    <GBSeq_update-date>22-SEP-2020</GBSeq_update-date>
+                
+    
+    
+    <GBSeq_create-date>17-AUG-2019</GBSeq_create-date>
+                
+    
+    
+    <GBSeq_definition>Human metapneumovirus strain 20692_42_HMPV N, P, M, F, M2-1, M2-2, SH, G, and L genes, complete cds</GBSeq_definition>
+                
+    
+    
+    <GBSeq_primary-accession>MK989730</GBSeq_primary-accession>
+                
+    
+    
+    <GBSeq_accession-version>MK989730.1</GBSeq_accession-version>
+                
+    
+    
+    <GBSeq_other-seqids>
+                              
+        
+        
+        <GBSeqid>gb|MK989730.1|</GBSeqid>
+                              
+        
+        
+        <GBSeqid>gi|1721707948</GBSeqid>
+                            
+    
+    
+    </GBSeq_other-seqids>
+                
+    
+    
+    <GBSeq_source>human metapneumovirus (HMPV)</GBSeq_source>
+                
+    
+    
+    <GBSeq_organism>human metapneumovirus</GBSeq_organism>
+                
+    
+    
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Haploviricotina; Monjiviricetes; Mononegavirales; Pneumoviridae; Metapneumovirus; Metapneumovirus hominis</GBSeq_taxonomy>
+                
+    
+    
+    <GBSeq_references>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>1</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..13234</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Phan,M.V.T.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Agoti,C.N.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Nokes,D.J.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Cotten,M.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>Direct Submission</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>Submitted (26-MAY-2019) Viral Genomics, Wellcome Trust Sanger Institute, Sulston Building, Hinxton, Cambridge CB10 1SA, United Kingdom</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                            
+    
+    
+    </GBSeq_references>
+                
+    
+    
+    <GBSeq_feature-table>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>source</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..13234</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>13234</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>MK989730.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>organism</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>human metapneumovirus</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>mol_type</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>viral cRNA</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>strain</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>20692_42_HMPV</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>host</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>Homo sapiens</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>db_xref</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>taxon:162145</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>geo_loc_name</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>Kenya</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>collection_date</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>29-Jan-2015</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>30..1214</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>30</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>1214</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>MK989730.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>N</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>QED08773.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MSLQGIHLSDLSYKHAILKESQYTIKRDVGTTTAVTPSSLQQEITLLCGEILYTKHTDYKYAAEIGMQYICTALGSERVQQILRNSGSEVQVVLTKTYSLGKGKNSKGEELQMLDIHGVEKSWVEEIDKEARKTMVTLLKESSGNIPQNQRPSAPDTPIILLCVGALIFTKLASTIEVGLETTVRRANRVLSDALKRYPRVDIPKIARSFYELFEQKVYYRSLFIEYGKALGSSSTGSKAESLFVNIFMQAYGAGQTLLRWGVIARSSNNIMLGHVSVQSELKQVTEVYDLVREMGPESGLLHLRQSPKAGLLSLANCPNFASVVLGNASGLGIIGMYRGRVPNTELFSAAESYARSLKESNKINFSSLGLTDEEKEAAEHFLNMSGDNQDDYE</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1238..2122</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1238</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>2122</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>MK989730.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>P</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>QED08774.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MSFPEGKDILFMGNEAAKIAEAFQKSLKKSGHKRTQSIVGEKVNTISETLELPTISKPARSSTLLEPKLAWADNSGITKITEKPATKTTDPVEEEEFNEKKVLPSSDGKTPAEKKSKFSTSVKKKVSFTSNEPGKYTKLEKDALDLLSDNEDEDAESSILTFEEKDTSSLSIEARLESIEEKLSMILGLLRTLNIATAGPTAARDGIRDAMIGIREELIAEIIKEAKGKAAEMMEEEMNQRSKIGNGSVKLTEKAKELNKIVEDESTSGESEEEEESKETQDNNQGEDIYQLIM</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>2140..2919</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>2140</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>2919</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>MK989730.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>M</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>QED08775.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MGQVKMESYLVDTYQGIPYTAAVQVDLVEKDLLPASLTIWFPLFQANTPPAVLLDQLKTLTITTLYAASQNGPILKVNASAQGAAMSVLPKKFEVNATVALDEYSKLDFDKLTVCDVKTVYLTTMKPYGMVSKFVSSAKSVGKKTHDLIALCDFMDLEKNIPVTIPAFIKSVSIKESESATVEAAISSEADQALTQAKIAPYAGLIMIMTMNNPKGIFKKLGAGTQVIVELGAYVQAESISRICKSWSHQGTRYVLKSR</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>3041..4660</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>3041</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>4660</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>MK989730.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>F</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>QED08776.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MSWKVMIIISLLITPQHGLKESYLEESCSTITEGYLSVLRTGWYTNVFTLEVGDVENLTCTDGPSLIKTELDLTKSALRELKTVSADQLAREEQIENPRQSRFVLGAIALGVATAAAVTAGIAIAKTIRLESEVNAIKGALKQTNEAVSTLGNGVRVLATAVRELKEFVSKNLTSAINRNKCDIADLKMAVSFSQFNRRFLNVVRQFSDNAGITPAISLDLMTDAELARAVSYMPTSAGQIKLMLENRAMVRRKGFGILIGVYGSSVIYMVQLPIFGVIDTPCWIIKAAPSCSEKNGNYACLLREDQGWYCKNAGSTVYYPNEKDCETRGDHVFCDTAAGINVAEQSRECNINISTTNYPCKVSTGRHPISMVALSPLGALVACYKGVSCSIGSNRVGIIKQLPKGCSYITNQDADTVTIDNTVYQLSKVEGEQHVIKGRPVSSSFDPIRFPEDQFNVALDQVFESIENSQALVEQSNKILNSAEKGNTGFIIVIILVAVLGLTMISVSIIIIIKKTRKPTGAPPELNGVTNGGFIPHS</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>4672..5250</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>4672</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>5250</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>MK989730.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>M2-1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>QED08777.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MGQIIMSRKAPCKYEVRGKCNRGSDCKFNHNYWSWPDRYLLLRSNYLLNQLLRNTDKADGLSIISGAGREDRTQDFVLGSTNVVQGYIDDNQGITKAAACYSLHNIIKQLQETEVRQARDNKLSDSKHVALHNLILSYMEMSKTPASLINNLKKLPREKLKKLARLIIDLSAGTDNDPSYALQDSESTNQVQ</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>5198..5413</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>5198</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>5413</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>MK989730.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>M2-2</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>QED08778.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MTLHMPCKTVKALIKCSKHGPKFITIEADDMIWTHKELKETLSDGIVKSHTNIYSCYLENIEIIYVKTYLS</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>5440..5979</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>5440</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>5979</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>MK989730.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>SH</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>QED08779.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MTMKTLDVIKSDGSSETCNQLKKTIKKHSGKVLIVLKLILALLTFFTVTITVNYIKVENNLQACQSKNESDKKVTKLNTTSTTIRPIPDLTVVHYLKRLIQRHTNFVIKDSDTCWRIHKNQCTNIKIYKFLCFGFINSTGTDCEELTTLCDKKLKTMVEKHRKAECHCLHITEWGCYYL</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>6174..6884</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>6174</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>6884</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>MK989730.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>G</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>QED08780.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MGQVAMEVRVENIRAIDMFKAKIKNRIRSSRCYRYATLILIGLTALSMALNIFLVIDHATLRNMIKTENCANMPSAEPSKKTPMTSTAGPNTKPNPQQATQWTTENSTFSAATLEGHPYTETTQTPDTTAPQQTTDKHTALPKSIHEQITQTTTEKKTTRATTPKRERGKENTNQTTSTAANQTTNTTNQIRNASETITTSDRPRTDTTTQSSEQTTWATEPGSPPNYARKSAGPR</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>7097..13120</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>7097</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>13120</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>MK989730.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>L</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>QED08781.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MTMDPFCESTVNVYLPDSYLKGVISFSETNAIGSCLLKRPYLKNDNTAKVAVENPVVEHVRLRNAVMTKMKISDYKVVEPVNMQHEIMKNMHSCELTLLKQFLTRSKNISSLKLNMICDWLQLKSTSDNTSILNFIDVEFIPVWVSNWFSNWYNLNKLILEFRREEVIRTGSILCRSLGKLVFIVSSYGCVVKSNKSKRVSFFTYNQLLTWKDVMLSRFNANFCIWVSNNLNKNQEGLGLRSNLQGMLTNKLYETVDYMLSLCCNEGFSLVKEFEGFIMSEILKITEHAQFSTRFRNTLLNGLTEQLSVLKAKNRSRVLGTILENNNYPMYEVVLKLLGDTLKSIKLLINKNLENAAELYYIFRIFGHPMVDEREAMDAVKLNNEITKILKLESLTELRGAFILRIIKGFVDNNKRWPKIKNLKVLSKRWAMYFKAKSYPSQLELSVQDFLELAAVQFEQEFSVPEKTNLEMVLNDKAISPPKKLIWSVYPKNYLPETIKNQYLEEAFNASDSQRTRRVLEFYLKDCNFDQKELKRYVIKQEYLNDKDHIVSLTGKERELSVGRMFAMQPGKQRQIQILAEKLLADNIVPFFPETLTKYGDLDLQRIMEIKSELSSIKTRKNDSYNNYIARASIVTDLSKFNQAFRYETTAICADIADELHGTQSLFCWLHLIVPMTTMICAYRHAPPETKGEYDIDKIQEQSGLYRYHMGGIEGWCQKLWTMEAISLLDVVSVKTRCQMTSLLNGDNQSIDVSKPVKLSEGIDEVKADYSLAIRMLKEIRDAYKNIGHKLKEGETYISRDLQFISKVIQSEGVMHPTPIKKILRVGPWINTILDDIKTSAESIGSLCQELEFRGESILVSLILRNFWLYNLYMYESKQHPLAGKQLFKQLNKTLTSVQRFFELKKENDVVDLWMNIPMQFGGGDPVVFYRSFYRRTPDFLTEAISHVDLLLKVSNNIKDEAKIRFFKALLSIEKNERATLTTLMRDPQAVGSERQAKVTSDINRTAVTSILSLSPNQLFCDSAIHYSRNEEEVGIIADNITPVYPHGLRVLYESLPFHKAEKVVNMISGTKSITNLLQRTSAINGEDIDRAVSMMLENLGLLSRILSAIISSIEIPIKSNGRLICCQISKTLREKSWNNMEIVGVTSPSIVTCMDVVYATSSHLKGIIIEKFSTDKTTRGQRGPKSPWVGSSTQEKKLVPVYNRQILSKQQKEQLEAIGKMRWVYKGTPGLRRLLNKICMGSLGISYKCVKPLLPRFMSVNFLHRLSVSSRPMEFPASVPAYRTTNYHFDTSPINQALSERFGNEDINLVFQNAISCGISIMSVVEQLTGRSPKQLVLIPQLEEIDIMPPPVFQGKFNYKLVDKITSDQHIFSPDKIDILTLGKMLMPTIKGQKTDQFLNKRENYFHGNNLIESLSAALACHWCGILTEQCIENNIFRKDWGDGFISDHAFMDFKVFLCVFKTKLLCSWGSQGKNVKDEDIIDESIDKLLRIDNTFWRMFSKVMFESKVKKRIMLYDVKFLSLVGYIGFKNWFIEQLRAVELHEVPWIVNAEGELVEIKSIKIYLQLIEQSLSLRITVLNYTDMAHALTRLIRKKLMCDNALFNPSSSPMFNLTQVIDPTTQLDYFPRVIFERLKSYDTSSDYNKGKLTRNYMTLLPWQHVNRYNFVFSSTGCKISLKTCIGKLIKDLNPKVLYFIGEGAGNWMARTACEYPDIKFVYRSLKDDLDHHYPLEYQRVIGDLNRVIDSGEGLSMETTDATQKTHWDLIHRISKDALLITLCDAEFKNRDDFFKMVILWRKHVLSCRICTAYGTDLYLFAKYHAVDCNIKLPFFVRSVATFIMQGSKLSGSECYILLTLGHHNNLPCHGEIQNSKMRIAVCNDFYASKKLDNKSIEANCKSLLSGLRIPINKKELNRQKKLLTLQSNHSSIATVGGSKIIESKWLKNKASTIIDWLEHILNSPKGELNYDFFEALENTYPNMIKLIDNLGNAEIKKLIKVTGYMLVSKK</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                            
+    
+    
+    </GBSeq_feature-table>
+                
+    
+    
+    <GBSeq_sequence>aagttccaaacaaaacgggacaaataaaaatgtctcttcaagggattcacctaagtgatctgtcatacaaacatgctatattaaaagagtctcaatacacaataaaaagagatgtaggcaccacaactgcagtgacaccttcatcattgcaacaagaaataacacttttgtgtggagaaattctttacactaaacacactgactacaaatatgctgctgagataggaatgcaatatatttgcacagctctaggatcagaaagagtacaacagattttgagaaactcaggtagtgaagttcaggtggttctaaccaaaacatactctttagggaaaggtaaaaacagtaaaggggaagagctgcagatgttagatatacatggagtggagaagagttgggtagaagaaatagacaaagaggcaagaaagacaatggtaactttgcttaaagagtcatcaggtaacatcccacaaaaccagagaccttcagcaccagacacaccaataattttattatgtgtaggtgccttaatattcactaaactagcatcaacaatagaagttggattagagactacagttagaagagccaatagagtgctaagtgatgcactcaaaagataccctagggtagatataccaaagattgctagatctttttatgaactatttgaacaaaaagtgtactacagaagtttattcattgagtacggaaaagctttaggctcatcttcaacagggagcaaagcagaaagtttgtttgtaaatatatttatgcaagcttatggagctggtcaaacactgctaaggtggggtgtcattgccagatcatccaacaacataatgctagggcatgtgtctgtgcaatctgaattgaagcaagttacagaggtttatgacttggtgagagaaatgggtcctgaatctgggcttttacatctaagacaaagtccaaaggcagggctgctatcattggccaattgccccaattttgccagtgttgttcttggcaatgcttcaggtttaggcataatcggaatgtacagagggagagtaccaaacacagagctattttctgcagcagaaagttatgccagaagcttgaaagagagcaataaaatcaatttctcttcgttagggcttacagatgaagaaaaagaagctgcagaacacttcttaaacatgagtggtgacaatcaagatgattatgagtaattaaaaaactgggacaagtcaaaatgtcattccctgaaggaaaggatatcctgttcatgggtaatgaagcagcaaaaatagccgaagctttccagaaatcactaaaaaaatcaggtcacaagagaactcaatccattgtaggggaaaaagtaaacaccatatcagaaactctagaactacccaccatcagcaaacccgcacgatcatccacactgctggaaccaaaattggcatgggcagacaacagcgggatcaccaaaatcacagaaaaaccagcaaccaaaacaacagatcctgttgaagaagaggaattcaacgaaaagaaagtgttgccttccagtgatgggaagactcccgcagagaaaaaatcaaagttttcaaccagtgtaaaaaagaaagtttcctttacatcaaatgaaccagggaaatataccaaactagagaaagatgccctagacttgctctcagacaatgaggacgaagacgcagaatcctcaatcttaacctttgaagagaaagatacatcatcactaagcattgaagctagactagaatctatagaagagaagttgagcatgatattaggactgcttcgtacacttaacattgcaacagcaggaccaacagctgcacgagatggaatcagagatgcaatgattggtataagagaagaactaatagcagagataattaaagaagccaagggaaaagcagctgaaatgatggaagaagagatgaatcaaagatctaaaataggaaatggcagtgtaaaactaaccgagaaggcaaaagagctcaacaaaattgttgaagacgagagcacaagcggtgaatcagaagaagaagaagaatcaaaagaaactcaggacaacaatcagggagaagatatttaccagttaatcatgtagtttaataaaaataaacaatgggacaagtcaagatggagtcctatctagtggacacttatcaaggcattccatatacagccgctgtccaagttgacctggtagaaaaagatttactgccagcaagtttgacaatatggtttcctttattccaggccaacacaccaccagcagttttgcttgatcagctaaaaaccttaacaataacaactctgtatgctgcatcacagaatggtccaatactcaaggtaaatgcatctgcccaaggtgctgccatgtctgtacttcccaaaaaattcgaagtaaatgcaactgtagcacttgatgaatacagtaaacttgattttgacaagctgacggtttgtgatgttaaaacagtttatttgacaactatgaagccgtacgggatggtgtcaaaatttgtgagttcagccaaatcagttggcaaaaaaacacatgacctaattgcactatgtgacttcatggacctagagaaaaacatacctgtgacaataccagcattcataaagtcagtttcaatcaaagagagtgagtcagccactgttgaagctgcaataagcagcgaagccgaccaagccttgacacaagccaagattgcaccttatgcaggactaattatgatcatgaccatgaacaatccaaaaggtatattcaagaaactaggggctggaacacaagtgatcgtagagctaggggcatatgtccaggctgagagcatcagtagaatttgcaagagctggagtcaccaaggaacaagatatgtactaaaatccagataaaaataactgtcttaatcaacaattacctatataactctagagattaataagtttattattatagttatataaaaataaattagaattataagggcatcaatagaaagcgggacaaataaaaatgtcttggaaagtgatgatcatcatttcgttacttataacaccccagcacgggctaaaggagagttatttggaagaatcatgcagtactataactgagggatacctcagtgttttaagaacaggctggtatactaatgtcttcacattagaagttggtgatgttgaaaatcttacatgtactgatggacctagcttaatcaaaacagaacttgacctaacaaaaagtgctttaagggaactcaaaacagtctctgccgatcagttagcgagagaggagcaaattgaaaatcccagacaatcaagatttgtcctaggtgcaatagctctcggagttgctacagcagcagcagtcacagcaggcattgcaatagccaaaaccataaggcttgagagtgaggtgaatgcaattaaaggtgctctcaaacaaactaatgaagcagtatccacattaggaaacggtgtgcgggtcctagccactgcagtgagagagctaaaagaatttgtgagcaaaaatctgactagtgcaatcaacaggaacaaatgtgacattgctgatctgaagatggctgtcagcttcagtcaattcaacagaagatttctaaatgttgtgcggcagttttcagacaatgcagggataacaccagcaatatcattggacctaatgactgatgctgaattggccagagctgtatcatacatgccaacatctgcaggacagataaaactgatgttggagaaccgcgcaatggtaaggagaaaaggatttggaatcctaataggggtctacggaagctctgtgatttacatggttcaattgccgatctttggtgtcatagatacaccttgttggataatcaaagcagccccctcttgctcagaaaaaaacgggaattatgcttgcctcctaagagaggatcaagggtggtattgtaaaaatgcaggatctactgtttactacccaaatgaaaaagactgtgaaacaagaggcgatcatgttttttgtgacacagcagcagggatcaatgttgctgagcaatcgagagaatgcaacattaacatatctactaccaactacccgtgcaaagtcagcacaggaagacatcccataagcatggttgcactatcacctctcggtgctttggtggcttgctacaaaggggtaagctgctcgattggcagcaatcgggttggaatcatcaaacaattacctaaaggctgctcatacataactaaccaggatgcagacactgtaacaattgacaataccgtgtatcaactaagcaaagttgaaggtgaacagcatgtaataaaagggagaccagtttcaagcagttttgatccaatcaggtttcctgaggatcagttcaatgttgcgcttgatcaagtcttcgaaagcattgagaacagtcaggcactggtggaacagtcaaacaaaattctaaacagtgcagaaaaaggaaacactggcttcattattgtaataatcttggttgctgttcttggtttaaccatgatttcagtgagcatcatcatcataatcaagaaaacaaggaagcccacaggagcacctccagagctgaatggtgtcaccaatggcggcttcataccacatagttagttaattaaaaaatgggacaaatcatcatgtctcgcaaggctccatgcaaatatgaagtgcggggcaaatgcaacagagggagtgattgcaaattcaatcacaattactggagttggcctgatagatatttattgttaagatcaaattatctcttaaatcagcttttaagaaacaccgataaggctgatggtttgtcaataatatcaggagcaggtagagaagatagaactcaagactttgttcttggttctactaatgtggttcaagggtacattgatgacaatcaaggaataaccaaggctgcagcttgctatagtctacacaacataatcaagcaactacaagaaacagaagtaagacaggctagagacaataagctttctgatagcaaacatgtggcgctccacaacttgatattatcatatatggagatgagcaaaactcctgcatctctaattaataacctaaagaaactaccaagggaaaaactgaagaaattagcaagattaattattgatttatcagcaggaactgacaatgacccttcatatgccttgcaagacagtgaaagcactaatcaagtgcagtaaacatggtcccaaattcattaccatagaggcagatgatatgatatggactcacaaagaattaaaagagacactatctgatgggatagtaaaatcacacaccaatatttatagttgttacttagaaaacatagaaataatatatgttaaaacttacttaagttagtaaaaattaaaaataaaatgggataaatgacaatgaaaacattagatgttataaaaagtgatggatcctcagaaacgtgtaatcaactcaaaaaaacaattaaaaaacactcgggtaaagtgcttattgtactaaaactgatattggctttactgacatttttcacagtaacaattactgttaactatataaaagtagaaaacaatttgcaggcatgtcaatcaaaaaatgaatcagacaaaaaggtcacaaagttaaatactacatcaacaacaattagacccatacctgatctaactgtagtacattatttgaaaagactgattcagagacacaccaactttgtcataaaagacagtgacacttgttggagaatacacaagaatcaatgtacaaatataaaaatatataagttcttatgctttgggttcataaattcaacaggcacagattgtgaggaactaacaaccctatgcgacaaaaagttaaaaaccatggtagaaaaacatagaaaggcagaatgtcactgtctacatataaccgagtgggggtgctattatctttaaaataataacacggctttcaacattgaaatcagaacaaattctactcaggtttattaatgcagtgttttagttatttaaaaaccgaatattgtctaggctgcataacactttgcaataatatgcaataatcaatagtcaaaccactgctgcaaactcatccataatataatcactgagtaatacaaaacaagaaaatgggacaagtggctatggaagtaagagtggagaacattcgagcgatagacatgttcaaagcaaagataaagaaccgtataagaagcagcaggtgctatagatatgctacactgatccttattggactaacagcactaagcatggcacttaatattttcctggtcattgatcatgcaacattaagaaacatgatcaaaacagaaaactgtgccaacatgccgtcagcggaaccaagcaaaaagaccccaatgacctctacagcaggcccaaacaccaaacctaatccacagcaagcaacacagtggaccacagagaactcaacattttcggcagcaactctagagggccatccatacacagagacaactcaaacaccagacacaacagctccccagcaaaccacagacaaacatacagcactaccaaaatcaatccatgaacagatcacccagacaaccacagagaaaaagacaaccagagcaacaaccccaaaaagggaaagagggaaagaaaacacaaaccaaaccacaagcacagctgcaaaccaaacaaccaacaccaccaaccaaatcagaaatgcaagtgagacaatcacaacatccgacagacccagaactgacaccacaacccaaagcagcgaacagacaacctgggcaacagaaccaggctccccaccaaactatgcacggaaaagtgcagggcccaggtgaacgaaacacacaggtatctcatccaagtagttaacaaaaaatcacgaaataaccttgaaaaccaaaaaactaaaatatgaatttagacccagaaaaacatagacactatatagggggtttgggcatatgcaccaatgagatggcatctgttcatgtatcaatggcgccaccattatttaaggaataagaagaggcaaaaattcaagggataaatgacaatggatcccttttgtgagtctactgttaatgtttatctccctgattcatatctcaaaggtgtaatatcttttagtgaaaccaacgcaattggatcatgtcttttgaaaagaccctatctaaaaaatgataatactgccaaagttgctgtagaaaaccccgttgttgaacatgtaaggcttagaaatgcagtcatgaccaaaatgaagatatcagattataaagtggttgaaccagttaatatgcagcatgaaataatgaagaatatgcatagttgtgagcttacattattaaaacaattcttaacgagaagcaaaaacattagctctctaaaattaaatatgatatgtgattggttacagttaaaatccacttcagacaacacatcaattctcaattttatagatgtggagttcatacccgtttgggttagcaattggttcagtaactggtataatctcaataaattaatcttagagtttagaagagaagaagtaataagaactggttcaattttatgtagatcactaggcaagttagtttttattgtatcatcttatgggtgtgtagtaaaaagcaacaaaagtaaaagagtgagcttttttacctataaccaactgttaacatggaaagatgtgatgttaagtagattcaatgcaaacttttgtatatgggtaagtaacaacctgaacaaaaatcaggaaggactaggacttagaagcaatctgcaaggtatgttaaccaataaattatatgaaactgttgattacatgctaagcctatgctgcaatgaaggattctctctggtgaaagagttcgaaggatttattatgagtgaaattctaaaaattactgagcatgctcagttcagtactaggtttaggaatactttattgaatgggttaactgaacaattgtcagtgttgaaagctaagaacagatctagagttcttggaactatattagaaaacaataattaccctatgtatgaagtagtacttaaattattaggggacactttgaaaagcataaagttattaattaacaagaatttagaaaatgctgcagaattatattatatattcagaatttttggacaccctatggtagatgagagagaagcaatggatgctgttaagttaaacaatgagattacaaaaattcttaaattagagagtttaacagaactaagaggagcatttatactaagaattataaaagggtttgtagacaataataaaagatggcctaaaattaagaatttaaaagtgctcagtaaaagatgggctatgtatttcaaagctaaaagttaccctagccaacttgagctaagtgtacaagactttttagaacttgctgcagtgcaatttgagcaggaattctctgtacctgaaaaaaccaaccttgagatggtattaaatgataaagcaatatcacctccaaaaaaactaatatggtctgtatatccaaaaaactacctgcctgaaactataaaaaatcagtatttagaagaggctttcaatgcaagtgacagccaaagaacaaggagagtcttagaattttacttaaaagattgtaactttgatcaaaaagaacttaaacgttatgtaattaaacaagagtatctaaatgacaaagaccacattgtctcgttaactgggaaggaaagagaattaagtgtaggtaggatgtttgcaatgcaaccaggaaaacaaagacagatacagatattagctgagaaacttctagctgacaacattgtaccttttttcccagaaactttaacaaagtatggtgacttagatctccaaagaattatggaaataaaatcagaactttcctctattaaaactagaaagaatgatagctacaacaattatattgcaagagcctctatagtaacagacttaagtaagtttaatcaggcctttagatatgaaaccacagctatatgtgcagatatagctgatgagttacatgggacacaaagcttattctgttggttacatcttattgttcctatgactacaatgatatgtgcatacagacatgcaccaccagaaacaaaaggggagtatgatatagacaaaatacaagagcaaagcggattatacagatatcatatgggagggattgaagggtggtgccagaagttatggacaatggaagcaatatccttgttagatgtagtatctgtaaaaactcgctgccagatgacttctctattaaacggagataatcagtcaatagatgttagtaaaccagtaaaattgtctgaaggtatagatgaagtaaaagcagactatagcttagcaattagaatgcttaaagaaataagagatgcttataaaaacattggtcataaactcaaagaaggtgagacatatatatcaagagatctccaattcataagtaaggtgattcaatctgaaggggtcatgcatcctactcctataaaaaagatattaagagtaggtccttggataaatacaatactagatgatattaaaaccagtgcagaatcaatagggagtctatgtcaagaactagaattcagaggggagagtatactagttagcttgatattaaggaatttctggctgtataacttgtacatgtatgagtcaaaacagcacccgttagctgggaagcaactattcaagcaattgaacaaaacattaacctctgtgcaaagattttttgaactgaagaaagaaaatgatgtggttgatctatggatgaatataccaatgcagtttggagggggagatccagtagttttttacagatctttttacagaaggactcccgatttcctaactgaagcaatcagccatgtggatttactgttaaaagtgtcaaacaatatcaaagatgaggctaagatacgatttttcaaggccttattatctatagaaaagaatgaacgcgctacattaacaacactaatgagagaccctcaggcagtaggatcagaacgacaagctaaagtaacaagtgatataaatagaacagcagttaccagcatactaagtctatctcctaatcagctcttctgtgatagtgctatacattatagtagaaatgaagaagaagttgggatcattgcagacaacataacacctgtttatcctcatgggttgagagtgctctatgaatcactaccttttcataaggctgaaaaggttgtcaatatgatatcaggcacaaagtctatcactaatctattacaaagaacatctgctatcaatggtgaagatattgatagagcagtgtctatgatgttagagaacttagggttgttatctaggatattgtcagcaataattagtagtatagaaataccaatcaagtccaatggcaggttgatatgctgtcaaatttccaagaccttgagagaaaaatcatggaacaatatggaaatagtaggagtgacatctcctagtattgtgacatgtatggatgttgtgtatgcaactagttctcatttaaaaggaataattattgaaaaattcagtactgacaagaccacaagaggtcagaggggaccaaaaagcccctgggtaggatcaagcactcaagagaaaaaattggttcctgtttataatagacaaattctttcaaaacaacaaaaagagcaactagaagcaataggaaaaatgaggtgggtgtacaaaggaactccagggctaagaagattgctcaataagatttgcatgggaagtttaggtattagctataagtgtgtaaaacctttattaccaagattcatgagtgtaaacttcttacatagattatctgttagtagtagacccatggaattcccagcttctgttccagcttacaggacaacaaattaccattttgacactagtccaatcaaccaagcactaagtgagagatttgggaatgaagacattaatctagtgtttcaaaatgcaatcagctgcggaattagtataatgagtgttgtagaacagttaactggtagaagcccaaaacaattagtcttaatccctcaattagaagagatagatattatgcctcctcctgtatttcaaggaaaattcaattataaactagttgataagataacctctgatcaacacatcttcagtcctgacaaaatagacatattaacactagggaagatgcttatgcctaccataaaaggtcaaaaaactgatcagttcttaaataagagagaaaactattttcatggaaataatttaattgaatctttatctgcagcacttgcatgccactggtgtggaatattaacagaacaatgtatagaaaacaatatctttaggaaagattggggtgatgggttcatctcagatcatgccttcatggatttcaaggtatttctatgtgtatttaaaaccaaacttttatgtagttggggatctcaaggaaagaatgtaaaagatgaagatataatagatgaatctattgacaaattattaagaattgacaacaccttttggagaatgttcagcaaagtcatgtttgaatcaaaagtcaaaaaaagaataatgttatatgatgtgaaattcctatcattagtaggttatataggatttaaaaactggtttatagaacagttaagagcggtagaactgcatgaggtgccttggattgtcaatgctgaaggagagttagttgaaattaagtcaatcaaaatttatctgcagttaatagaacaaagtctatctttgagaataactgtattgaattatacagatatggcacatgctcttacacgattaattaggaaaaaattgatgtgtgataatgcactcttcaatccaagttcatcaccaatgtttaatctaacccaggttattgatcctacaacacaactagactattttcctagggtaatatttgagaggttaaaaagttatgataccagttcagactacaacaaagggaagttaacaaggaattacatgacattattaccatggcaacacgtaaacaggtacaattttgtctttagttctacaggttgtaaaatcagtttaaagacatgcatcgggaaattgataaaggatttaaatcctaaagttctctactttattggagaaggagcaggtaactggatggcaagaacagcatgtgaatatcctgatataaaatttgtatataggagtttaaaagatgaccttgatcaccattacccattagaatatcaaagggtaataggtgatctaaatagagtgatagatagtggtgaaggattatcaatggaaactacagatgcaactcaaaaaacccattgggacttgatacacagaataagtaaagatgctttattgataacattgtgtgatgcagaattcaaaaacagagatgacttctttaagatggtaatcctttggagaaaacatgtattatcttgtagaatctgtacagcttatggaacagatctttacttatttgcaaaatatcatgcggtggactgcaatataaaattaccattttttgtaagatctgtagctacttttattatgcaaggaagcaaattatcagggtcagaatgttatatacttttaacattaggtcatcataataatctaccctgtcatggagaaatacaaaattccaaaatgagaatagcagtgtgtaatgatttctatgcctcaaagaaactggacaacaaatcaattgaagcaaactgcaaatctcttctatcaggactgagaatacctataaacaaaaaggagttgaatagacaaaagaaattgttaacattacaaagtaaccattcttctatagcaacagttgggggcagtaagattatagaatccaaatggttaaagaataaagcaagtacaataattgattggttagaacatattttgaattctccaaaaggtgaattaaactatgatttctttgaagcattagagaacacataccccaatatgatcaagcttatagataatttgggaaatgcagaaataaagaaactaatcaaggtcactgggtacatgcttgtgagtaagaagtaataataataataatgattaaccataatctcacacagctgagaaaataattgtctaacagtttagttgatcattagttatttaaaattataaattagtaactaactgataaaaaaa</GBSeq_sequence>
+              
+
+
+</GBSeq>

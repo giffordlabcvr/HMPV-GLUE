@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+                
+    
+    
+    <GBSeq_locus>ON461598</GBSeq_locus>
+                
+    
+    
+    <GBSeq_length>840</GBSeq_length>
+                
+    
+    
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+                
+    
+    
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+                
+    
+    
+    <GBSeq_topology>linear</GBSeq_topology>
+                
+    
+    
+    <GBSeq_division>VRL</GBSeq_division>
+                
+    
+    
+    <GBSeq_update-date>27-NOV-2022</GBSeq_update-date>
+                
+    
+    
+    <GBSeq_create-date>27-NOV-2022</GBSeq_create-date>
+                
+    
+    
+    <GBSeq_definition>Human metapneumovirus strain HMPV/NL/1/20/B G protein gene, partial cds</GBSeq_definition>
+                
+    
+    
+    <GBSeq_primary-accession>ON461598</GBSeq_primary-accession>
+                
+    
+    
+    <GBSeq_accession-version>ON461598.1</GBSeq_accession-version>
+                
+    
+    
+    <GBSeq_other-seqids>
+                              
+        
+        
+        <GBSeqid>gb|ON461598.1|</GBSeqid>
+                              
+        
+        
+        <GBSeqid>gi|2338803237</GBSeqid>
+                            
+    
+    
+    </GBSeq_other-seqids>
+                
+    
+    
+    <GBSeq_source>human metapneumovirus (HMPV)</GBSeq_source>
+                
+    
+    
+    <GBSeq_organism>human metapneumovirus</GBSeq_organism>
+                
+    
+    
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Haploviricotina; Monjiviricetes; Mononegavirales; Pneumoviridae; Metapneumovirus; Metapneumovirus hominis</GBSeq_taxonomy>
+                
+    
+    
+    <GBSeq_references>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>1</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..840</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Meijer,A.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>van der Veer,B.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Then,E.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>Community circulation of human metapneumovirus in the Netherlands, 2005-2021</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>Unpublished</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>2</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..840</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Meijer,A.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>van der Veer,B.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Then,E.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>Direct Submission</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>Submitted (30-APR-2022) Centre for Infectious Diseases Research, Diagnostics and laboratory Surveillance, National Institute for Public Health and the Environment, Antonie van Leeuwenhoeklaan 9, Bilthoven 3721 MA, The Netherlands</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                            
+    
+    
+    </GBSeq_references>
+                
+    
+    
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+                
+    
+    
+    <GBSeq_feature-table>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>source</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..840</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>840</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>ON461598.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>organism</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>human metapneumovirus</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>mol_type</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>viral cRNA</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>strain</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>HMPV/NL/1/20/B</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>isolation_source</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>combined nose and throat swabs</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>host</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>Homo sapiens</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>db_xref</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>taxon:162145</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>geo_loc_name</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>Netherlands</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>collection_date</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>03-Feb-2020</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>note</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>genotype: B1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>&lt;1..673</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>673</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>ON461598.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_partial5 value="true"/>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>2</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>G protein</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>UZT75146.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>KNRIRSSRCYRYATLILIGLTALTMALNIFLVIDHATLRNMIKTENCANMPSAEPSKKTPMTSTAGPNTKPNPQRATQWTTENSTFSAATPEGHPYTETTQTPDTTAPQQTTDKHTALPKSTHEQITQTTTEKKTTRATTLKRERGKENTNQTTSTAATQTTNTTNQIRNASETITTSDRPRTDTTTQSSEQTTWATGSGSPPNHARKSAGPRRMQHTGILPK</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                            
+    
+    
+    </GBSeq_feature-table>
+                
+    
+    
+    <GBSeq_sequence>aaagaaccgtataagaagcagcaggtgctatagatatgctacactgatccttattggactaacagcactaaccatggcacttaatattttcctggtcattgatcatgcaacattaagaaacatgatcaaaacagaaaactgtgctaacatgccgtcagcggaaccaagcaaaaagaccccaatgacctccacagcaggcccaaacaccaaacccaatccacagcgagcaacacagtggaccacagagaactcaacattttcggcagcaaccccagagggccatccatacacagagacaactcaaacaccagacacaacagctcctcaacaaaccacagacaaacatacagcactaccaaaatcaacccatgaacagatcacccagacaaccacagagaaaaagacaaccagagcaacaactctaaaaagggaaagagggaaagaaaacacaaaccaaaccacaagcactgctgcaacccaaacaaccaacaccaccaaccaaatcagaaatgcaagtgagacaatcacaacatccgacagacccagaactgacaccacaacccaaagcagcgaacagacaacctgggcaacaggatcaggctccccaccaaaccatgcacggaaaagtgcagggcccaggcgaatgcaacacacaggtatcttacccaagtagtcaacaaaaaaccacaaaataactttgaaaaccaaaaccaaaatataaattcagaaccagggaaacacagacaccatacagggggtttgggcacatgcaccaacaagatggcatccgttcatgtatcaatggcgccaccattattcaaggaataagaagaggcaaaa</GBSeq_sequence>
+              
+
+
+</GBSeq>

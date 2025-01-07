@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+                
+    
+    
+    <GBSeq_locus>HB384004</GBSeq_locus>
+                
+    
+    
+    <GBSeq_length>19</GBSeq_length>
+                
+    
+    
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+                
+    
+    
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+                
+    
+    
+    <GBSeq_topology>linear</GBSeq_topology>
+                
+    
+    
+    <GBSeq_division>PAT</GBSeq_division>
+                
+    
+    
+    <GBSeq_update-date>09-JUN-2009</GBSeq_update-date>
+                
+    
+    
+    <GBSeq_create-date>09-JUN-2009</GBSeq_create-date>
+                
+    
+    
+    <GBSeq_definition>Sequence 10904 from Patent WO2006110688</GBSeq_definition>
+                
+    
+    
+    <GBSeq_primary-accession>HB384004</GBSeq_primary-accession>
+                
+    
+    
+    <GBSeq_accession-version>HB384004.1</GBSeq_accession-version>
+                
+    
+    
+    <GBSeq_other-seqids>
+                              
+        
+        
+        <GBSeqid>emb|HB384004.1|</GBSeqid>
+                              
+        
+        
+        <GBSeqid>pat|WO|2006110688|10904</GBSeqid>
+                              
+        
+        
+        <GBSeqid>gi|239713995</GBSeqid>
+                            
+    
+    
+    </GBSeq_other-seqids>
+                
+    
+    
+    <GBSeq_source>human metapneumovirus (HMPV)</GBSeq_source>
+                
+    
+    
+    <GBSeq_organism>human metapneumovirus</GBSeq_organism>
+                
+    
+    
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Haploviricotina; Monjiviricetes; Mononegavirales; Pneumoviridae; Metapneumovirus; Metapneumovirus hominis</GBSeq_taxonomy>
+                
+    
+    
+    <GBSeq_references>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>1</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..19</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Ge,Q.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Kumar,M.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Mcswiggen,J.A.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>Rnai therapeutic for respiratory virus infection</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>WO2006110688-A2 10904 19-OCT-2006 MDRNA, Inc. (US)</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                            
+    
+    
+    </GBSeq_references>
+                
+    
+    
+    <GBSeq_feature-table>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>source</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..19</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>19</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>HB384004.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>organism</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>human metapneumovirus</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>mol_type</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>unassigned DNA</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>db_xref</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>taxon:162145</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                            
+    
+    
+    </GBSeq_feature-table>
+                
+    
+    
+    <GBSeq_sequence>ggctctaggatcagaaaga</GBSeq_sequence>
+              
+
+
+</GBSeq>

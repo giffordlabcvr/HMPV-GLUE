@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+                
+    
+    
+    <GBSeq_locus>PA647976</GBSeq_locus>
+                
+    
+    
+    <GBSeq_length>1045</GBSeq_length>
+                
+    
+    
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+                
+    
+    
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+                
+    
+    
+    <GBSeq_topology>linear</GBSeq_topology>
+                
+    
+    
+    <GBSeq_division>PAT</GBSeq_division>
+                
+    
+    
+    <GBSeq_update-date>28-JUN-2024</GBSeq_update-date>
+                
+    
+    
+    <GBSeq_create-date>28-JUN-2024</GBSeq_create-date>
+                
+    
+    
+    <GBSeq_definition>JP 2020074774-A/159: COMPOSITIONS, METHODS AND KITS TO DETECT ADENOVIRUS, METAPNEUMOVIRUS, AND/OR RHINOVIRUS NUCLEIC ACIDS</GBSeq_definition>
+                
+    
+    
+    <GBSeq_primary-accession>PA647976</GBSeq_primary-accession>
+                
+    
+    
+    <GBSeq_accession-version>PA647976.1</GBSeq_accession-version>
+                
+    
+    
+    <GBSeq_other-seqids>
+                              
+        
+        
+        <GBSeqid>dbj|PA647976.1|</GBSeqid>
+                              
+        
+        
+        <GBSeqid>pat|JP|2020074774|159</GBSeqid>
+                              
+        
+        
+        <GBSeqid>gi|2751610471</GBSeqid>
+                            
+    
+    
+    </GBSeq_other-seqids>
+                
+    
+    
+    <GBSeq_keywords>
+                              
+        
+        
+        <GBKeyword>JP 2020074774-A/159</GBKeyword>
+                            
+    
+    
+    </GBSeq_keywords>
+                
+    
+    
+    <GBSeq_source>human metapneumovirus (HMPV)</GBSeq_source>
+                
+    
+    
+    <GBSeq_organism>human metapneumovirus</GBSeq_organism>
+                
+    
+    
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Haploviricotina; Monjiviricetes; Mononegavirales; Pneumoviridae; Metapneumovirus; Metapneumovirus hominis</GBSeq_taxonomy>
+                
+    
+    
+    <GBSeq_references>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>1</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..1045</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Kolk,D.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Hillius,A.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Shah,A.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Majlessi,M.R.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Douglass,P.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>COMPOSITIONS, METHODS AND KITS TO DETECT ADENOVIRUS, METAPNEUMOVIRUS, AND/OR RHINOVIRUS NUCLEIC ACIDS</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>JP2020074774-A 159 21-MAY-2020 GEN-PROBE INCORPORATED</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                            
+    
+    
+    </GBSeq_references>
+                
+    
+    
+    <GBSeq_comment>OS Human Metapneumovirus~PN JP 2020074774-A/159~PD 21-MAY-2020~PF 29-NOV-2019 JP 2019216301~PR 25-MAR-2017 US 62/476753~PA GEN-PROBE INCORPORATED~PI daniel kolk,amber hillius,ankur shah,mehrdad r majlessi,pamela~PI douglass~PT 'COMPOSITIONS, METHODS AND KITS TO DETECT ADENOVIRUS,~PT METAPNEUMOVIRUS,~PT AND/OR RHINOVIRUS NUCLEIC ACIDS'~PS N159~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+                
+    
+    
+    <GBSeq_feature-table>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>source</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..1045</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>1045</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PA647976.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>organism</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>human metapneumovirus</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>mol_type</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>unassigned DNA</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>db_xref</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>taxon:162145</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                            
+    
+    
+    </GBSeq_feature-table>
+                
+    
+    
+    <GBSeq_sequence>cacaataaagagagatgtgggcacaacaacagcagtaacaccctcatcattgcaacaagaaataacactgttgtgtggagaaattctatatgctaagcatactgattacaaatatgctgcagaaataggaatacaatatattagcacagctctagggtcagagagagtacagcagattctaagaaactcaggcagtgaagtccaagcggttttaaccagaacgtactctttggggaaagttaaaaacaataaaggagaagatttacagatgttagacatacatggagtagaaaaaagctgggtggaagagatagacaaagaagcaagaaaaacaatggcaactttacttaaagaatcatcaggcaatattccacaaaatcagaggccttcagcaccagacacacctataatcttattatgtgtaggtgccttaatatttaccaaactagcatcaactatagaagtgggattagagaccacagtcagaagagctaaccgtgtactaagtgatgcactcaaaagataccctagaatggacataccaaaaattgctagatccttctatgacttatttgaacaaaaagtgtatcacagaagtttgttcattgagtatggcaaagcattaggctcatcctctacaggcagcaaagcagaaagtttattcgtcaacatattcatgcaagcttatggtgctggtcaaacaatgctgaggtggggggttatcgccaggtcatctaacaatataatgttaggacatgtatctgtacaagccgagctgaaacaggtcacagaagtctatgacctagtgcgggaaatgggccctgaatctgggctcctacatttaaggcaaagcccaaaagctggactgttatcccttgcaaattgtcccaactttgcaagtgttgttctcggcaatgcctcaggcttaggcataataggtatgtatcgagggagagtgccaaacacagaactattttcagcagcagaaagctatgccaagagtttgaaagaaagtaataaaatcaacttttcttcattaggactc</GBSeq_sequence>
+              
+
+
+</GBSeq>

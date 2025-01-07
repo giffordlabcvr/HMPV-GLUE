@@ -1,0 +1,9 @@
+delete module hmpvDownloadReferences
+
+create module -f modules/download/hmpvDownloadReferences.xml
+
+# Download NCBI sequences 
+module hmpvDownloadReferences import
+
+# Export sources 
+export source hpmv-ncbi-refseqs

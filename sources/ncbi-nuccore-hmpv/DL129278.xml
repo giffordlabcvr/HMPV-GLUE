@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+                
+    
+    
+    <GBSeq_locus>DL129278</GBSeq_locus>
+                
+    
+    
+    <GBSeq_length>36</GBSeq_length>
+                
+    
+    
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+                
+    
+    
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+                
+    
+    
+    <GBSeq_topology>linear</GBSeq_topology>
+                
+    
+    
+    <GBSeq_division>PAT</GBSeq_division>
+                
+    
+    
+    <GBSeq_update-date>26-SEP-2008</GBSeq_update-date>
+                
+    
+    
+    <GBSeq_create-date>26-SEP-2008</GBSeq_create-date>
+                
+    
+    
+    <GBSeq_definition>Virus causing respiratory tract illness in susceptible mammals</GBSeq_definition>
+                
+    
+    
+    <GBSeq_primary-accession>DL129278</GBSeq_primary-accession>
+                
+    
+    
+    <GBSeq_accession-version>DL129278.1</GBSeq_accession-version>
+                
+    
+    
+    <GBSeq_other-seqids>
+                              
+        
+        
+        <GBSeqid>dbj|DL129278.1|</GBSeqid>
+                              
+        
+        
+        <GBSeqid>pat|JP|2004531220|9</GBSeqid>
+                              
+        
+        
+        <GBSeqid>gi|207016832</GBSeqid>
+                            
+    
+    
+    </GBSeq_other-seqids>
+                
+    
+    
+    <GBSeq_keywords>
+                              
+        
+        
+        <GBKeyword>JP 2004531220-A/9</GBKeyword>
+                            
+    
+    
+    </GBSeq_keywords>
+                
+    
+    
+    <GBSeq_source>human metapneumovirus (HMPV)</GBSeq_source>
+                
+    
+    
+    <GBSeq_organism>human metapneumovirus</GBSeq_organism>
+                
+    
+    
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Haploviricotina; Monjiviricetes; Mononegavirales; Pneumoviridae; Metapneumovirus; Metapneumovirus hominis</GBSeq_taxonomy>
+                
+    
+    
+    <GBSeq_references>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>1</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..36</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Gurun,J.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Osuteruhausu,A.D.M.E.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Fugen,B.G.V.D.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Fotcha,R.A.M.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>John,J.C.D.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>Virus causing respiratory tract illness in susceptible mammals</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>JP2004531220-A 9 14-OCT-2004 Vironovative B V</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                            
+    
+    
+    </GBSeq_references>
+                
+    
+    
+    <GBSeq_comment>OS Human metapneumovirus~PN JP 2004531220-A/9~PD 14-OCT-2004~PF 18-JAN-2002 JP 2002557978~PR 19-JAN-2001 EP 01200213.5,18-OCT-2001 EP 01203985.5 PI jean gurun,albertus dominicus maruserinasu erasmus PI osuteruhausu,~PI bernadette geraruda van den fugen,ronarudasu adrianus maria PI fotcha,~PI jean cornelius de john~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+                
+    
+    
+    <GBSeq_feature-table>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>source</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..36</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>36</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>DL129278.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>organism</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>human metapneumovirus</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>mol_type</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>unassigned RNA</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>db_xref</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>taxon:162145</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                            
+    
+    
+    </GBSeq_feature-table>
+                
+    
+    
+    <GBSeq_sequence>tagtaaaaacacatcagagtgggataaatgacaatg</GBSeq_sequence>
+              
+
+
+</GBSeq>

@@ -1,0 +1,39 @@
+<compoundAligner>
+    
+    <aligners>
+        <codonAwareBlastAligner>
+            <featureName>NP</featureName>
+        </codonAwareBlastAligner>
+        <codonAwareBlastAligner>
+            <featureName>P</featureName>
+        </codonAwareBlastAligner>
+        <codonAwareBlastAligner>
+            <featureName>M</featureName>
+        </codonAwareBlastAligner>
+        <codonAwareBlastAligner>
+            <featureName>F</featureName>
+        </codonAwareBlastAligner>
+        <codonAwareBlastAligner>
+            <featureName>M2_1</featureName>
+        </codonAwareBlastAligner>
+        <codonAwareBlastAligner>
+            <featureName>M2_2</featureName>
+        </codonAwareBlastAligner>
+        <codonAwareBlastAligner>
+            <featureName>G</featureName>
+        </codonAwareBlastAligner>
+        <codonAwareBlastAligner>
+            <featureName>SH</featureName>
+        </codonAwareBlastAligner>
+        <codonAwareBlastAligner>
+            <featureName>L</featureName>
+        </codonAwareBlastAligner>
+        <blastAligner/>
+     
+         <blastAligner>
+             <featureName>whole_genome</featureName>
+         </blastAligner>
+
+        
+    </aligners>
+</compoundAligner>

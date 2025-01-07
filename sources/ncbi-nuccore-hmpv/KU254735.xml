@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+                
+    
+    
+    <GBSeq_locus>KU254735</GBSeq_locus>
+                
+    
+    
+    <GBSeq_length>550</GBSeq_length>
+                
+    
+    
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+                
+    
+    
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+                
+    
+    
+    <GBSeq_topology>linear</GBSeq_topology>
+                
+    
+    
+    <GBSeq_division>VRL</GBSeq_division>
+                
+    
+    
+    <GBSeq_update-date>22-JUN-2016</GBSeq_update-date>
+                
+    
+    
+    <GBSeq_create-date>22-JUN-2016</GBSeq_create-date>
+                
+    
+    
+    <GBSeq_definition>Human metapneumovirus isolate MY/U3002/2013 fusion (F) gene, partial cds</GBSeq_definition>
+                
+    
+    
+    <GBSeq_primary-accession>KU254735</GBSeq_primary-accession>
+                
+    
+    
+    <GBSeq_accession-version>KU254735.1</GBSeq_accession-version>
+                
+    
+    
+    <GBSeq_other-seqids>
+                              
+        
+        
+        <GBSeqid>gb|KU254735.1|</GBSeqid>
+                              
+        
+        
+        <GBSeqid>gi|969031845</GBSeqid>
+                            
+    
+    
+    </GBSeq_other-seqids>
+                
+    
+    
+    <GBSeq_source>human metapneumovirus (HMPV)</GBSeq_source>
+                
+    
+    
+    <GBSeq_organism>human metapneumovirus</GBSeq_organism>
+                
+    
+    
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Haploviricotina; Monjiviricetes; Mononegavirales; Pneumoviridae; Metapneumovirus; Metapneumovirus hominis</GBSeq_taxonomy>
+                
+    
+    
+    <GBSeq_references>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>1</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..550</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Chow,W.Z.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Chan,Y.F.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Oong,X.Y.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Ng,L.J.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Nor'E,S.S.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Ng,K.T.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Chan,K.G.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Hanafi,N.S.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Pang,Y.K.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Kamarulzaman,A.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Tee,K.K.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>Genetic diversity, seasonality and transmission network of human metapneumovirus: identification of a unique sub-lineage of the fusion and attachment genes</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>Sci Rep 6, 27730 (2016)</GBReference_journal>
+                                            
+            
+            
+            <GBReference_xref>
+                                                          
+                
+                
+                <GBXref>
+                                                                        
+                    
+                    
+                    <GBXref_dbname>doi</GBXref_dbname>
+                                                                        
+                    
+                    
+                    <GBXref_id>10.1038/srep27730</GBXref_id>
+                                                                      
+                
+                
+                </GBXref>
+                                                        
+            
+            
+            </GBReference_xref>
+                                            
+            
+            
+            <GBReference_pubmed>27279080</GBReference_pubmed>
+                                            
+            
+            
+            <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+                                          
+        
+        
+        </GBReference>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>2</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..550</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Chow,W.Z.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Chan,Y.F.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Oong,X.Y.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Ng,L.J.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Ng,K.T.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Chan,K.G.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Chook,J.B.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Hanafi,N.S.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Kamarulzaman,A.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Tee,K.K.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>Direct Submission</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>Submitted (09-DEC-2015) Department of Medical Microbiology, University of Malaya, Kuala Lumpur 50603, Malaysia.</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                            
+    
+    
+    </GBSeq_references>
+                
+    
+    
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+                
+    
+    
+    <GBSeq_feature-table>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>source</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..550</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>550</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>KU254735.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>organism</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>human metapneumovirus</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>mol_type</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>viral cRNA</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>isolate</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MY/U3002/2013</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>host</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>Homo sapiens</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>db_xref</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>taxon:162145</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>geo_loc_name</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>Malaysia</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>collection_date</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>04-Nov-2013</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>gene</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>&lt;1..&gt;550</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>550</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>KU254735.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_partial5 value="true"/>
+                                            
+            
+            
+            <GBFeature_partial3 value="true"/>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>F</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>&lt;1..&gt;550</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>550</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>KU254735.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_partial5 value="true"/>
+                                            
+            
+            
+            <GBFeature_partial3 value="true"/>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>F</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>fusion</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>ALT83648.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MLENRAMVRRKGFGILIGVYGSSVIYMVQLPIFGVINTPCWIIKAAPSCSEKDGNYACLLREDQGWYCKNAGSTVYYPNEKDCETRGDHVFCDTAAGINVAEQSRECNINISTTNYPCKVSTGRHPISMVALSPLGALVACYKGVSCSTGSNQVGIIKQLPKGCSYITNQDADTVTIDNTVYQ</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                            
+    
+    
+    </GBSeq_feature-table>
+                
+    
+    
+    <GBSeq_sequence>atgttagagaaccgtgcaatggtgaggagaaaaggatttggaatcctgataggagtctacggaagctctgtgatttacatggtccagctgccgatctttggtgtcataaatacaccttgttggataatcaaggcagctccctcttgttcagaaaaagatggaaattatgcttgcctcctaagagaggatcaagggtggtattgtaaaaatgcaggatccactgtttactacccaaatgaaaaagactgcgaaacaagaggtgatcatgttttttgtgacacagctgcagggatcaatgttgctgagcaatcaagagaatgcaacatcaacatatctaccaccaactacccatgcaaagtcagcacaggaagacaccctatcagcatggttgcactatcacctctcggtgctttggtagcttgctacaaaggggttagctgctcgactggcagtaatcaggttggaataatcaaacaactacctaaaggctgctcatacataactaaccaggacgcagacactgtaacaattgacaacactgtgtatcaac</GBSeq_sequence>
+              
+
+
+</GBSeq>

@@ -1,0 +1,10 @@
+  # Base project module declarations
+
+  # Basic modules
+  create module -t tabularUtility  
+  
+  # Alignment
+  create module -f modules/hmpvCompoundAligner.xml
+
+ # Genbank XML-Populator modules
+  create module -f modules/hmpvGenbankXmlPopulator.xml

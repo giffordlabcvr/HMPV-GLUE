@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+                
+    
+    
+    <GBSeq_locus>EU131160</GBSeq_locus>
+                
+    
+    
+    <GBSeq_length>711</GBSeq_length>
+                
+    
+    
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+                
+    
+    
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+                
+    
+    
+    <GBSeq_topology>linear</GBSeq_topology>
+                
+    
+    
+    <GBSeq_division>VRL</GBSeq_division>
+                
+    
+    
+    <GBSeq_update-date>22-JUL-2008</GBSeq_update-date>
+                
+    
+    
+    <GBSeq_create-date>25-SEP-2007</GBSeq_create-date>
+                
+    
+    
+    <GBSeq_definition>Human metapneumovirus isolate JPS05-21 attachment glycoprotein (G) gene, complete cds</GBSeq_definition>
+                
+    
+    
+    <GBSeq_primary-accession>EU131160</GBSeq_primary-accession>
+                
+    
+    
+    <GBSeq_accession-version>EU131160.1</GBSeq_accession-version>
+                
+    
+    
+    <GBSeq_other-seqids>
+                              
+        
+        
+        <GBSeqid>gb|EU131160.1|</GBSeqid>
+                              
+        
+        
+        <GBSeqid>gi|157399689</GBSeqid>
+                            
+    
+    
+    </GBSeq_other-seqids>
+                
+    
+    
+    <GBSeq_source>human metapneumovirus (HMPV)</GBSeq_source>
+                
+    
+    
+    <GBSeq_organism>human metapneumovirus</GBSeq_organism>
+                
+    
+    
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Haploviricotina; Monjiviricetes; Mononegavirales; Pneumoviridae; Metapneumovirus; Metapneumovirus hominis</GBSeq_taxonomy>
+                
+    
+    
+    <GBSeq_references>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>1</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..711</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Endo,R.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Ebihara,T.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Ishiguro,N.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Teramoto,S.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Ariga,T.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Sakata,C.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Hayashi,A.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Ishiko,H.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Kikuta,H.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>Detection of four genetic subgroup-specific antibodies to human metapneumovirus attachment (G) protein in human serum</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>J. Gen. Virol. 89 (PT 8), 1970-1977 (2008)</GBReference_journal>
+                                            
+            
+            
+            <GBReference_xref>
+                                                          
+                
+                
+                <GBXref>
+                                                                        
+                    
+                    
+                    <GBXref_dbname>doi</GBXref_dbname>
+                                                                        
+                    
+                    
+                    <GBXref_id>10.1099/vir.0.83679-0</GBXref_id>
+                                                                      
+                
+                
+                </GBXref>
+                                                        
+            
+            
+            </GBReference_xref>
+                                            
+            
+            
+            <GBReference_pubmed>18632969</GBReference_pubmed>
+                                          
+        
+        
+        </GBReference>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>2</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..711</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Endo,R.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Ebihara,T.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Ishiguro,N.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Ariga,T.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Sakata,C.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Hayashi,A.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Ishiko,H.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Kikuta,H.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>Direct Submission</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>Submitted (03-SEP-2007) Department of Pediatrics, Hokkaido University Graduate School of Medicine, N-15, W-7, Kita-ku, Sapporo 060-8638, Japan</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                            
+    
+    
+    </GBSeq_references>
+                
+    
+    
+    <GBSeq_feature-table>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>source</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..711</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>711</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>EU131160.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>organism</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>human metapneumovirus</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>mol_type</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>viral cRNA</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>isolate</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>JPS05-21</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>isolation_source</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>LLC-MK2 cells</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>db_xref</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>taxon:162145</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>geo_loc_name</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>Japan</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>gene</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..711</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>711</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>EU131160.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>G</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..711</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>711</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>EU131160.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>G</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>attachment glycoprotein</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>ABV53467.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MEVRVENIRAIDMFKAKMKNRLRSSKCYRNATLILIGLSALSMALNIFLIIDYATSKNMTKVDHCVNMPPIEPSKKTPMTSAVDPNTKPNPQRATQLTTEDSTSLAATLEDHLHTGTTPTPDATVPQQTTDEHTTLPRPTNRRTTQTTAEKKPTRATTKKETTTRSTSTAATQTLNTTNQTSNGREATTTSARSRNNATTQNSNQTTQTADPSSQSQHTQKSTTTTYNTDTSSPSS</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                            
+    
+    
+    </GBSeq_feature-table>
+                
+    
+    
+    <GBSeq_sequence>atggaagtaagagtggagaacattcgggcaattgacatgttcaaagcaaagatgaaaaaccgtttaagaagtagcaagtgctatagaaatgctacactgatccttattggattatcagcactaagtatggcacttaatatttttttaatcattgattatgcaacatcaaaaaacatgaccaaagtggatcactgtgttaatatgccgccgatagaaccaagcaagaagaccccaatgacctctgcagtagacccaaacaccaaacccaatccacagcgggcaacacagttgaccacagaggattcaacatctctagcagcaaccctagaggaccatctacacacagggacaactccaacaccagatgcaacagtccctcagcaaaccacagacgagcacacaacactgccgagaccaaccaacagacggaccacccaaacaaccgcagagaaaaagccaaccagagcaacaaccaaaaaagaaaccacaactcgatccacaagcacagctgcaacccaaacactcaacaccaccaaccaaaccagcaatggaagagaggcaaccacaacatccgccagatccagaaacaatgccacaactcaaaacagcaaccaaacaacccagacagcagacccaagctcccaatcacaacacacacagaaaagcacaacaacaacatacaacacagacacatcttctccaagtagttaa</GBSeq_sequence>
+              
+
+
+</GBSeq>

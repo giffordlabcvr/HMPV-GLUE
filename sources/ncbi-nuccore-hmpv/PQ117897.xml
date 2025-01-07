@@ -1,0 +1,1914 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+                
+    
+    
+    <GBSeq_locus>PQ117897</GBSeq_locus>
+                
+    
+    
+    <GBSeq_length>13424</GBSeq_length>
+                
+    
+    
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+                
+    
+    
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+                
+    
+    
+    <GBSeq_topology>linear</GBSeq_topology>
+                
+    
+    
+    <GBSeq_division>VRL</GBSeq_division>
+                
+    
+    
+    <GBSeq_update-date>31-AUG-2024</GBSeq_update-date>
+                
+    
+    
+    <GBSeq_create-date>31-AUG-2024</GBSeq_create-date>
+                
+    
+    
+    <GBSeq_definition>UNVERIFIED: Human metapneumovirus isolate H20-355-6017, partial genome</GBSeq_definition>
+                
+    
+    
+    <GBSeq_primary-accession>PQ117897</GBSeq_primary-accession>
+                
+    
+    
+    <GBSeq_accession-version>PQ117897.1</GBSeq_accession-version>
+                
+    
+    
+    <GBSeq_other-seqids>
+                              
+        
+        
+        <GBSeqid>gb|PQ117897.1|</GBSeqid>
+                              
+        
+        
+        <GBSeqid>gi|2792444502</GBSeqid>
+                            
+    
+    
+    </GBSeq_other-seqids>
+                
+    
+    
+    <GBSeq_keywords>
+                              
+        
+        
+        <GBKeyword>UNVERIFIED</GBKeyword>
+                            
+    
+    
+    </GBSeq_keywords>
+                
+    
+    
+    <GBSeq_source>human metapneumovirus (HMPV)</GBSeq_source>
+                
+    
+    
+    <GBSeq_organism>human metapneumovirus</GBSeq_organism>
+                
+    
+    
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Haploviricotina; Monjiviricetes; Mononegavirales; Pneumoviridae; Metapneumovirus; Metapneumovirus hominis</GBSeq_taxonomy>
+                
+    
+    
+    <GBSeq_references>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>1</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..13424</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Rothstein,A.P.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Qiu,X.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Collins,S.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Muir,G.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Simas,A.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Sum,A.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Lu,B.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Cosca,B.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Girinathan,B.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Leeson,P.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Philipson,C.W.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Simen,B.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>Direct Submission</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>Submitted (29-JUL-2024) Ginkgo Biosecurity, Ginkgo Bioworks, 27 Drydock Ave 8th Floor, Boston, MA 02210, USA</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                            
+    
+    
+    </GBSeq_references>
+                
+    
+    
+    <GBSeq_comment>GenBank staff is unable to verify sequence and/or annotation provided by the submitter.; ##Assembly-Data-START## ; Assembly Method :: minimap2 v. 2.24-r1122 ; Sequencing Technology :: Illumina ; ##Assembly-Data-END##</GBSeq_comment>
+                
+    
+    
+    <GBSeq_feature-table>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>source</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..13424</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>13424</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>organism</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>human metapneumovirus</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>mol_type</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>viral cRNA</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>isolate</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>H20-355-6017</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>isolation_source</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>nasal swab</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>host</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>Homo sapiens</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>db_xref</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>taxon:162145</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>geo_loc_name</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>USA: California</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>collection_date</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>09-Jan-2024</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>gene</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>36..1220</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>36</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>1220</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>N</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>misc_feature</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>36..1220</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>36</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>1220</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>N</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>note</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>similar to nucleoprotein</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>gene</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1244..2128</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1244</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>2128</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>P</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>misc_feature</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1244..2128</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1244</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>2128</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>P</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>note</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>similar to phosphoprotein</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>gene</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>2161..2925</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>2161</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>2925</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>M</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>2161..2925</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>2161</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>2925</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>M</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>matrix protein</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>XEW94233.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MESYLVDTYQGIPYTAAVQVDLVEKDLLPASLTIWFPLFQANTPPAVLLDQLKTLTITTLYAASQSGPILKVNASAQGAAMSVLPKKFEVNATVALDEYSKLEFDKLTVCEVKTVYLTTMKPYGMVSKFVSSAKSVGKKTHDLIALCDFMDLEKNTPVTIPAFIKSVSIKESESATVEAAISSEADQALTQAKIAPYAGLIMIMTMNNPKGIFKKLGAGTQVIVELGAYIQAESISKICKTWSHQGTRYVLKSR</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>gene</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>2874..4667</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>2874</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>4667</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>F</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>misc_feature</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>2874..4667</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>2874</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>4667</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>F</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>note</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>similar to fusion protein</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>gene</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>4705..5268</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>4705</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>5268</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>M2_1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>4705..5268</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>4705</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>5268</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>M2_1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>matrix protein 2-1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>XEW94234.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MSRKAPCKYEVRGKCNRGSECKFNHNYWSWPDRYLLIRSNYLLNQLLRNTDRADGLSIISGAGREDRTQDFVLGSTNVVQGYIDDNQSITKAAACYSLHNIIKQLQEVEVRQARDNKLSDSKHVALHNLILSYMEMSKTPASLINNLKRLPREKLKKLAKLIIDLSAGADNDSSYALQDSESINQVQ</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>gene</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>5216..5431</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>5216</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>5431</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>M2_2</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>5216..5431</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>5216</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>5431</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>M2_2</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>matrix protein 2-2</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>XEW94235.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MTLHMPCKTVKALIKCSDHGPVFITIEVDDMIWTQKELKEALSDGIVKFHTNIYNCYLENIEIIYVKAYLS</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>gene</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>5462..6013</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>5462</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>6013</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>SH</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>5462..6013</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>5462</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>6013</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>SH</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>small hydrophobic protein</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>XEW94236.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MITLDVIKNDGSSKTCTHLKKIIKDHSGKVLIALKLILALLTFFTVTITINYIKVENNLQICQSKTESDKEDLPSNTTSVTTKTTLDHDITHYFKRLIQRYTDSVINKDTCWKISRNQCTNITTYKFLCFKLEDSEINSCDRLTDLCRNKSNSAVGAYHTVECHCIYTIEWKCYHYSIDKTQS</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>gap</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>6681..6880</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>6681</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>6880</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>estimated_length</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>200</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>gene</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>7227..13244</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>7227</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>13244</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>L</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>misc_feature</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>7227..13244</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>7227</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>13244</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PQ117897.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>gene</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>L</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>note</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>similar to RNA-dependent RNA polymerase</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                            
+    
+    
+    </GBSeq_feature-table>
+                
+    
+    
+    <GBSeq_sequence>aaattaaattacaaaaaaatatgggacaagtgaaaatgtctcttcaagggattcacctgagtgatctatcatacaaacatgctatattaaaagagtcacagtacacaataaagagagatgtaggcacaacaacagcagtaacaccctcatcattgcaacaagaaataacactgttgtgtggggaaattctatatgctaagcatactgattacaaatatgctgcagagataggaatacaatatattagcacagctctagggtcagagagagtacagcagattctaagaaactcaggcagtgaagtccaaacggttttaaccagaacgtactctttggggaaagttaaaaataataaaggagaagatctacagatgttagacatacatggagtagaaaaaagctgggtggaagagatagacaaagaagcaagaaaaacaatggcaactttacttaaagaatcatcaggcaatattccacaaaatcagaggccttcagcaccagacacacctataatcttattatgtgtaggtgccttaatatttaccaagctagcatcaactatagaagtgggattagagactacagtcagaagagccaaccgtgtactaagtgatgcactcaaaagataccctagaatggacataccaaaaatcgctagatccttctatgacttatttgaacaaaaagtgtatcacagaagtttgttcattgagtatggtaaagcattaggctcatcctctacaggcagcaaagcagaaagtttattcgtcaacatattcatgcaagcttatggtgctggtcaaacaatgctgaggtggggagttatcgccaggtcatctaacaatataatgttaggacatgtatctgtacaagctgagctgaagcaggtcacagaagtctatgacctagtacgggaaatgggccctgaatctgggctcctacatttaaggcaaagcccaaaagctggactgttatcccttgcaaattgtcccaactttgcaagtgttgttctcggcaatgcctcaggcttaggcataataggtatgtatcgaggaagagtgccaaacacagaactattttcagcagcagaaagctatgccaagagtttgaaagaaagtaataaaatcaacttttcttcattagggctcacagatgaagaaaaagaggctgcagaacacttcctaaatgtgagtgacgacagtcaaaatgattatgagtaattaaaaaagtgggacaagtcaaaatgtcgttccctgaaggaaaagatattcttttcatgggtaatgaagcagcaaaattggcagaggctttccagaaatcattaagaaaacctagtcataagagatctcaatctattataggagaaaaagtgaacactatatctgaaacattggaattacctactatcagtaaacctaccaaaccaaccatattgtcagagccaaagttagcatggacagacaaaggtggggcaatcaaaactgaagtaaagcaaacaatcaaaattatggatcctattgaagaagaagaatctactgagaaaaaggtgctgccctctagtgatgggaaaactcctgcagaaaagaagttgaaaccatcaaccaacacaaaaaagaaagtttcatttacaccaaatgaaccaggaaaatatacaaagttggaaaaagatgctctagacttgctttcagacaatgaagaggaagatgcagaatcctcaatcttaaccttcgaagaaagagatacttcatcattaagcattgaagccagactagaatcaattgaggagaaattaagcatgatactagggctattaagaacactcaacattgctacagcaggacccacagcagcaagagatggaatcagagatgcaatgattggcataagggaggaactaatagcagacataataaaagaggccaagggaaaagcagcagaaatgatggaagaggaaatgagccaaaggacaaaaataggaaacggtagtgtaaaattaactgaaaaggcaaaggagctcaacaaaattgttgaagatgaaagcacaagtggagaatctgaagaagaagaagaactaaaagacatacaggagaataatcaagaggatgacatttaccagttaattatgtagtttaataaaaacaaacaatgggacaagtaaaaatggagtcctatctggtagacacctatcagggcatcccttacacagcagctgttcaagttgatctggtagaaaaggatttgttacctgcgagcctaactatatggttccctttgtttcaggccaatacaccaccagcagttctgcttgatcagctaaagactctgacaataactactctatatgctgcgtcacaaagtggtccaatactaaaagtgaatgcatcagctcaaggtgcagcaatgtctgtacttcctaaaaagtttgaagtcaatgcgactgtagcacttgacgagtatagcaaattagaatttgacaaacttacagtctgtgaagtaaaaacagtttacttaacaaccatgaaaccatatgggatggtatcaaaatttgtaagctcagccaaatcagttggtaaaaaaacacatgatctaatcgcattgtgtgattttatggatctagaaaagaacacaccagttacaataccagcatttatcaaatcagtttctatcaaagagagtgaatcagccactgttgaagctgcaataagcagtgaagcagatcaagccctaacacaagccaaaattgcaccttatgcgggactgatcatgattatgaccatgaacaatcctaaaggtatattcaagaagcttggagctgggactcaagttatagtagaactaggagcatatatccaagccgaaagcataagtaaaatatgcaagacttggagccatcaagggacaagatatgtgctgaagtccagataacagtcaaacaacctggcaaaaaaccaccaactctattctatagactaaaaagtcaccgttttagttatataaaaatcaaattagagcaagaattaaatcaatcaagagtgggacaagtaaaaatgtcttggaaagtggtgatcattttttcattgctaataacacctcaacacggtcttaaagagagctacttagaagaatcatgtagcactataactgagggatatctcagtgttctgaggacaggttggtataccaacgtttttacattagaggtgggtgatgtagaaaacctcacatgtgctgatggacctagcctaataaaaacagaattagatctgaccaaaagtgcactaagagagctcaaaacagtctctgctgaccaattagcaagggaggaacaaattgagaatcccagacaatctagatttgttctaggagcaatagcactcggtgttgcgacagcagctgcagttacagcaggtgttgcaattgccaaaactatccggcttgagagtgaagtcacagcaattaagaatgcccttaaaaagactaatgaagcagtgtctacattggggaatggagttcgagtgttagcaactgcagtgagggaactgaaagattttgtgagcaagaatttaactcgtgcaatcaacaaaaacaagtgcgacattgatgacctaaaaatggccgttagcttcagtcaattcaacagaaggtttctaaatgttgtgcggcaattttcagacaatgctggaataacaccagcaatatctctagacttaatgacagatgctgaactagccagggctgtttccaacatgccgacatctgcaggacaaataaaattgatgttggaaaaccgtgcaatggtgcgaagaaaggggttcgggatcctaataggggtctacgggagctccgtaatttacatggtgcagctgccaatctttggtgttatagacacgccttgctggatagtaaaagcagccccttcttgttccgaaaaaaagggaaactatgcttgcctcttaagagaagaccaagggtggtattgtcagaatgcagggtcaactgtttactacccaaatgagaaggactgtgaaactagaggagaccatgtcttttgcgacacagcagcaggaattaatgttgctgagcaatcaaaggagtgcaacatcaacatatccaccacaaattacccgtgcaaagtcagcacaggaaggcatcccatcagtatggttgcactgtctcctctcggggctctagttgcctgttacaaaggagtaagttgttccattggcagcaatagagtagggatcatcaagcagctgaacaaaggttgctcttatataaccaaccaagatgcagacacagtgacaatagacaacactgtatatcagctgagcaaggttgagggtgaacagcatgttataaaaggcagacctgtgtcaagcagctttgatccagttaagtttcctgaagatcaattcaatgtcgcacttgatcaagttttcgaaaacattgaaaacagccaggccctggtagatcaatcaaacagaatcctaagcagtgcagagaaagggaacactggtttcatcattgtgataattctgattgctgtccttggctccagcatgatcctggtgagtgtctttatcataatcaagaaaacaaagaaaccaacgggagcacctccagagctaagtggtgtcacaaacaatggcttcataccgcacagttagttaattaaaaataaaccaaaatttgggacaaatcataatgtctcgtaaggctccatgcaaatatgaagtgcggggcaaatgcaatagaggaagtgagtgtaagtttaaccacaattactggagttggccagatagatacttattaataagatcaaattatctattaaatcagcttttaaggaacactgatagagctgatggcctatcaataatatcaggcgcaggcagagaagacagaacgcaagattttgttctaggttccactaatgtggttcaaggctatattgatgataaccaaagtataacaaaggctgcagcctgctacagtctacacaacataatcaagcaactacaagaagttgaagttaggcaggctagagataataaactgtctgacagcaagcatgtggcactccataacttaatcttatcttatatggagatgagcaaaactcccgcatctttaatcaacaatcttaaaagactgccgagagaaaaactgaaaaaactagcaaagctgataattgatttatcagcaggtgctgacaatgactcttcatatgccctgcaagacagtgaaagcattaatcaagtgcagtgatcatggtcctgtcttcattactatagaggttgatgatatgatatggacccaaaaagaattgaaagaagcgttatccgatgggatagtgaaatttcataccaacatttacaattgttatttagaaaacatagaaattatatatgtcaaggcttacctaagttagtaaaaacacatcagattgggataaatgacaatgataacattggatgtcattaaaaatgatgggtcttcaaaaacatgtactcaccttaaaaaaataatcaaagaccactctggtaaagtgctcattgcacttaagttaatattagctttactaacatttttcacagtaacaatcactataaattacataaaagtagaaaacaatctgcaaatatgccagtcaaaaactgaatcagacaaagaagacttaccatcaaataccacatctgtcacaaccaagaccactctagaccatgatataacacattactttaaaagattgattcaaaggtatacagattctgtaataaacaaggacacatgctggaaaataagcagaaatcaatgcacaaatataacaacatataaatttttatgttttaaacttgaagattcagaaatcaacagttgtgatagactgacagatttatgcagaaacaaatcaaactcagcagttggagcatatcacacagtagaatgccattgtatatacacaattgaatggaagtgctatcactattcaatagataagacccaatcctaaatgttaaaactggattaggatccgtctaagactattaattaaatagtttagttatttaaaaatattttgaaaacaggtaagtttctatgacaattcacagcaataagttataattaatagcttaattataattaaaacattatttaaaaccataactattcaatttacaaagtaaaaacaaaaatatgggacaagtagttatggaggtgaaagtagagaacattcgagcaatagacatgctcaaagcaagagtgaaaaatcgtgtggcacgcagcaaatgctttaaaaatgcttctttaatcctcataggaataactactctgagtatagccctcaatatctatctgatcataaattacacaatacaaaaaaccacatctgaatcagaacaccacaccagctcaacacccacagaatctatcaaagaaacttcaacaatccccatatacaacccagacatcaatccaaactcacagcacccaactcaacagtccacagaaagcttcacgctctaccctgcatcctcggtgagcccatcagaaacagaaccaacatcaacaccaggcacaacaaaccgcctgtcctttgtagacagatccacaacacaaccaagcggaaacagaacaaagacaaactcaacagcccacagaagaaacatcccaagtacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncaactgcaacatcagtccagtctgacagcagcaccacagtccaaaatcatgatgcaacaggttcaacgaacccacaggcatctgcaagcacaacataaacccagcacaacaaaactgcaaaaacaaaactagttaacaaaaaatatgaaatagctctaaagtaaaacatataggtgctaacaatcaagaaatcaaaagataactaataatatctctaaaacagcaacaacatcatttcaactttgctcaaatctccctgggagaaactttcgcccccatactgacaacatcacaatcatctcaagaaaagaaactgggcaaaacatcaccaaagagacaaataacaatggatcctcttaatgagtccactgttaatgtctatctccctgattcgtatcttaaaggagtaatttcttttagtgaaactaatgcaattggttcatgtctcttaaaaagaccctacttaaaaaatgacaacactgcaaaagttgccatagagaatcctgttattgagcatgttagactcaaaaatgcagttaattctaaaatgaaaatatcagattacaaagtggtagaaccaataaacatgcaacatgagataatgaagaatgtacacagttgtgagctcacactattgaaacagtttttaacaaggagtaaaaacattagcactctcaaattaaatatgatatgtgattggctgcaattaaaatctacatcagatgatacctcaatcctaagttttatagatgtagaatttatacctagttgggtaagcaactggtttagtaattggtataatctcaataagttaattttagagttcaggagagaggaagtaataagaactggttcaatcttgtacagatcattaggtaaattagtttttattgtatcatcatatggatgtatcgtcaaaagcaacaaaagcaaaagagtgagcttcttcacatacaatcaactgttaacatggaaagatgtgatgttaagtcgattcaatgcaaatttttgtatatgggtgagcaacagtctgaatgaaaatcaggaagggctaggattgagaagtaatctacaaggtatgttaactaataaactatatgaaactgtagattatatgttaagtttatgttgcaatgaaggtttctcacttgtgaaagagttcgaaggtttcattatgagtgaaatccttaggattactgaacatgctcaattcagtactagatttagaaatactttgttaaatggattaacagatcaattaacaaaattaaaaaataaaaacaggctcagagttcatggtaccgtattagaaaataatgattatccaatgtatgaagctgtacttaaattattaggagatactctgagatgcatcaaattattaatcaataagaacttagagaatgctgcagaattatactacatattcagaatttttggtcacccaatggtagatgaaagagatgcaatggatgctgtcaaactaaataatgagatcacaaagattcttaggttggagagcttgacagaactgagaggggcattcatattaaggattatcaaaggatttgtggacaacaacaaaaggtggcctaaaattaaaaacttaaaagtgcttagcaaaagatggaatatgtacttcaaagcaaaaagttaccccagtcaactcgaattaagtgaacaagactttctagagcttgctgcaatacaatttgaacaagagttttctgttcctgaaaaaaccaatcttgagatggtattaaatgacaaagctatatcacctcctaaaagattaatatggtctgtgtatccaaagaattacttacctgaaacgataaaaaatcgatatctagaagaaactttcaatgcaagtgatagccttaaaacaagaagagtactagagtattatttgaaagacaataaatttgatcaaaaggaactcaaaagttatgttgttaaacagggatatttaaatgataaggaacacattgtctcgttaactggaaaagaaagagaattaagtgtaggtagaatgtttgctatgcaaccagggaaacagcgacaaatacaaatattggcagagaaattgttagctgataacattgtacctttcttcccagaaactttaacaaagtatggtgatctagatcttcagagaataatggaaatcaaatcagaactttcttctattaaaaccagaagaaatgatagttataataattatattgcaagggcatccatagtaactgatttaagcaagttcaaccaagccttcagatatgaaactacagcaatatgtgcagatatagcagacgaattacatggaacacaaagcttattctgttggttacatcttatcgttcctatgactacaatgatatgtgcctatagacatgcaccaccagaaacaaaaggtgaatatgatatagataagatagaagagcaaagtggtttatatagataccacatgggtggtattgaaggatggtgtcaaaaactctggacaatggaagctatatctttattggatgttgtatctgtaaagacacggtgtcaaatgacatctttattaaacggtgacaaccaatcaatagacgtaagtaaaccagtcaagttatctgaaggtttggatgaagtgaaggcagattatcgcttggcaataaagatgctaaaagaaataagagatgcatacagaaatataggccataaacttaaagaaggggaaacatatatatcaagagatcttcagttcataagcaaggtgattcaatccgaaggagtaatgcaccctacccctataaaaaagatcttaagagtaggaccatggataaacacaatattagatgacattaaaactagtgctgagtcaatagggagtctatgtcaagaattagaatttagaggagaaagcataatagttagtctgatattaagaaatttctggctgtataacttatacatgcatgaatcaaagcaacatcctctggcagggaagcagttattcaaacaactaaataaaacattaacatcagtgcagagattttttgaaattaaaaaagaaaatgaagtagtagatctatggatgaacataccgatgcaatttggtggaggagatccagtagtcttctatagatctttctatagaaggactcctgattttttaactgaggcaatcagccatgtggatattctgttaaaaatatcagctaacataaaaaatgaaacgaaaataagttttttcaaagccttactatcaatagaaaaaaatgaacgtgctacactgacaacactaatgagggatcctcaagctgttggatcagaacgacaagcaaaagtaacaagtgatatcaatagaacagcagttaccagtatcttaagtctttccccgaatcaacttttcagtgatagtgccattcactacagcagaaatgaagaagaagtaggaatcattgctgaaaacataacacctgtttatcctcatgggctgagagttttatatgaatcattaccctttcataaagctgaaaaagttgtaaacatgatatcgggaacaaaatctataactaacttattacagagaacatctgctattaatggtgaagatattgacagagctgtatctatgatgttggagaatctaggattattgtctagaatattatcagtagttgttgatagtatagaaattccaaccaaatctaatggtaggctgatatgttgtcaaatctctaggactttaagagagacatcatggaataatatggaaatagttggagtaacatctcccagcatcactacatgcatggatgtcatatatgcaactagttctcatttgaaagggataattattgaaaagttcagcactgacagaactacaaggggtcaaagaggtccaaaaagcccttgggtagggtcgagtactcaagagaaaaaattagtacctgtttataacagacaaattctctcaaaacaacaaagagaacagctagaagcaattggaaaaatgagatgggtgtataaagggacaccaggcttgcggcgattactcaacaagatctgtcttggaagtttaggcattagttacaaatgtgtaaagcctttattacctagatttatgagtgtaaatttcttacatagattatctgtcagtagtagacctatggaattcccagcatcagttccagcttatagaacaacaaattaccattttgacactagtcctattaatcaagcattaagtgagagatttggaaatgaagatattaacttagtcttccaaaatgcaatcagctgtggaattagcataatgagtgtagtagaacaattaacaggtagaagcccaaaacagttagttttaataccccaattggaggaaatagacattatgccaccaccagtgtttcaagggaaattcaattataaactagtagataagataacttctgatcaacatatcttcagtccggacaaaatagatatgttaacattagggaaaatgctcatgcccgctataaagggtcagaaaacagaccagttcttgaataaaagagaaaattatttccatgggaacaatcttattgagtctttatcagcagcattagcatgtcattggtgtgggatattaacagaacaatgcatagaaaacaatattttcaagaaagactggggtgacgggtttatatcagatcatgcctttatggacttcaaaatattcctatgtgtctttaaaaccaaacttttatgtagttggggatctcaagggaaaaacattaaagatgaagatatagtagatgagtcaatagataagttgttaaggattgacaatactttttggagaatgttcagcaaggttatgtttgaaccaaaagttaagaaacggataatgttatatgatgtaaaattcctatcactagtaggttacatagggtttaagaactggtttatagaacagttgagagcagctgagttgcatgaaataccttggattgtcaatgccgagggtgatttggttgagatcaagtcaattaaaatctatttgcaactgatagaacaaagtttatttttgagaataacagttctgaactatacagatatggcacatgctctcacacgattaatcagaaagaagttgatgtgtgataatgcactgttaaccccaatttcatccccaatggttaacttaactcaagttattgatcccacaacacaattggattacttccctaagataacattcgaaaggctaaaaaattacgacacaagttcaaattatgccaaaggaaagctaacaagaaattacatgatactgttgccatggcaacatgttaatagatataactttgtctttagttctactggatgcaaagttagtctgaaaacatgtattggaaaacttatgaaagatttaaaccctaaagttttgtactttattggagaaggagcaggaaattggatggccagaacagcatgtgaatatcctgatattaagtttgtatatagaagtttgaaagatgaccttgatcatcattatcctttggaataccagagagtgataggtgaattaagcagaatcatagatagtggtgaagggctttcaatggaaacaacagatgcaactcaaaaaactcattgggatttgatacacagggtaagcaaagatgctttattaataactttatgtgatgcagaatttaaggacagagatgatttttttaagatggtaattctatggagaaagcatgtattatcatgcagaatttgcactacttatgggacagacctctatttatttgcaaagtatcatgctaaagactgcaatgtaaaattacctttttttgtgagatcagttgccacttttattatgcagggcagtaagctgtcaggctcagaatgctacatactcttaacactaggccaccacaacagtttaccttgccatggagaaatacaaaattccaagatgaaaatagcagtgtgtaatgatttttatgctgcaaaaaaactcgacaataaatcaattgaagctaattgtaaatcacttttgtcagggctaagaatacctataaataagaaagaactagatagacagagaaaattgttaacactacaaagcaatcattcttctgtagcaacagttggtggcagcaagatcatagagtctaaatggttaacaaacaaagcaagtacaataattgattggttagaacacattttaaattctccaaagggcgaattaaattatgatttttttgaagcattagagaacacttaccctaatatgattaagctaatagataacctaggaaatgcagagataaaaaaactgatcaaggtaacaggatacatgcttgtaagtaaaaaatgaaaaatgatgaagatgataaaatagatgacaacttcacaccattctaaagtaactgtttgattatgcaattatttgatagttaattaaaaattaaaattaaaaatcaaaagttaaaatttaaaacttatcattaagtttattaaaaataagaaattataattgaatgtatacggttttttt</GBSeq_sequence>
+              
+
+
+</GBSeq>

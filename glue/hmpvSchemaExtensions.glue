@@ -1,0 +1,80 @@
+schema-project hmpv
+
+  #~# Custom tables
+
+  create custom-table hmpv_replacement
+  create custom-table hmpv_replacement_sequence --idFieldLength 200
+
+  #~# Extensions to sequence table
+
+  table sequence
+    
+    # GenBank entry information
+    create field full_name VARCHAR 200
+    create field gb_primary_accession VARCHAR
+    create field gb_accession_version VARCHAR
+    create field gb_create_date DATE
+    create field gb_update_date DATE
+    create field length INTEGER
+    create field pubmed_id VARCHAR 50
+    create field gb_ref_journal VARCHAR 300
+    create field gb_ref_title VARCHAR 500
+    create field gb_ref_doi VARCHAR 60
+    create field patent_related BOOLEAN
+
+    # Isolate-related information
+    create field isolate_id VARCHAR 150
+    create field iso_host VARCHAR 100
+    create field iso_source VARCHAR 200
+    create field iso_country VARCHAR 100
+    create field iso_region VARCHAR 200
+    create field iso_year INTEGER
+    create field iso_month VARCHAR
+    create field iso_day INTEGER
+    create field lab_host VARCHAR 100
+
+    # true if variations are present in the sequence
+    create field variation_present BOOLEAN
+
+  exit
+
+
+  #~# Create schema extension for amino acid replacements
+
+  table hmpv_replacement
+    create field display_name VARCHAR
+    create field codon_label VARCHAR
+    create field reference_aa VARCHAR
+    create field reference_nt INTEGER
+    create field replacement_aa VARCHAR
+    create field num_seqs INTEGER
+    create field grantham_distance_int INTEGER
+    create field miyata_distance DOUBLE
+    create field parent_feature VARCHAR
+    exit
+
+  #~# Extensions to alignment table
+
+  table alignment
+    
+    create field clade_category VARCHAR 20
+    create field phylogeny CLOB
+    
+    exit 
+
+  #~# Extension to 'feature location note' table
+
+  table member_floc_note
+  	
+  	create field ref_nt_coverage_pct DOUBLE
+  	
+  	exit
+
+  #~# Create links between tables
+
+  create link variation hmpv_replacement -m ONE_TO_ONE
+  create link hmpv_replacement hmpv_replacement_sequence -m ONE_TO_MANY
+  create link sequence hmpv_replacement_sequence -m ONE_TO_MANY
+
+
+exit

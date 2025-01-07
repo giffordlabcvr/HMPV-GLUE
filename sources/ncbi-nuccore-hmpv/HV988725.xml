@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+                
+    
+    
+    <GBSeq_locus>HV988725</GBSeq_locus>
+                
+    
+    
+    <GBSeq_length>1185</GBSeq_length>
+                
+    
+    
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+                
+    
+    
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+                
+    
+    
+    <GBSeq_topology>linear</GBSeq_topology>
+                
+    
+    
+    <GBSeq_division>PAT</GBSeq_division>
+                
+    
+    
+    <GBSeq_update-date>13-FEB-2013</GBSeq_update-date>
+                
+    
+    
+    <GBSeq_create-date>13-FEB-2013</GBSeq_create-date>
+                
+    
+    
+    <GBSeq_definition>JP 2011167197-A/39: RECOMBINANT PARAINFLUENZA VIRUS EXPRESSION SYSTEMS AND VACCINES COMPRISING HETEROLOGOUS ANTIGENS DERIVED FROM METAPNEUMOVIRUS</GBSeq_definition>
+                
+    
+    
+    <GBSeq_primary-accession>HV988725</GBSeq_primary-accession>
+                
+    
+    
+    <GBSeq_accession-version>HV988725.1</GBSeq_accession-version>
+                
+    
+    
+    <GBSeq_other-seqids>
+                              
+        
+        
+        <GBSeqid>dbj|HV988725.1|</GBSeqid>
+                              
+        
+        
+        <GBSeqid>pat|JP|2011167197|39</GBSeqid>
+                              
+        
+        
+        <GBSeqid>gi|449779491</GBSeqid>
+                            
+    
+    
+    </GBSeq_other-seqids>
+                
+    
+    
+    <GBSeq_keywords>
+                              
+        
+        
+        <GBKeyword>JP 2011167197-A/39</GBKeyword>
+                            
+    
+    
+    </GBSeq_keywords>
+                
+    
+    
+    <GBSeq_source>human metapneumovirus (HMPV)</GBSeq_source>
+                
+    
+    
+    <GBSeq_organism>human metapneumovirus</GBSeq_organism>
+                
+    
+    
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Haploviricotina; Monjiviricetes; Mononegavirales; Pneumoviridae; Metapneumovirus; Metapneumovirus hominis</GBSeq_taxonomy>
+                
+    
+    
+    <GBSeq_references>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>1</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..1185</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Haller,A.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Tang,R.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Fouchier,R.A.M.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Hoogen,B.G.V.D.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Osterhaus,A.D.M.E.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>RECOMBINANT PARAINFLUENZA VIRUS EXPRESSION SYSTEMS AND VACCINES COMPRISING HETEROLOGOUS ANTIGENS DERIVED FROM METAPNEUMOVIRUS</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>JP2011167197-A 39 01-SEP-2011 MedImmune LLC,ViroNovative BV</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                            
+    
+    
+    </GBSeq_references>
+                
+    
+    
+    <GBSeq_comment>OS Human metapneumovirus~PN JP 2011167197-A/39~PD 01-SEP-2011~PF 06-APR-2011 JP 2011084567~PR 05-MAR-2004 US 60/550931 ,28-AUG-2003 US 60/499274 PR ,~PR 25-APR-2003 US 60/466181~PA MedImmune LLC,ViroNovative BV~PI aurelia haller,roderick tang,ronaldus adrianus maria fouchier, PI bernadetta gerarda van den hoogen,~PI albertus dominicus marcellinus erasmus osterhaus PT 'RECOMBINANT PARAINFLUENZA VIRUS EXPRESSION SYSTEMS AND PT VACCINES COMPRISING~PT HETEROLOGOUS ANTIGENS DERIVED FROM METAPNEUMOVIRUS' PS N77~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+                
+    
+    
+    <GBSeq_feature-table>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>source</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..1185</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>1185</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>HV988725.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>organism</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>human metapneumovirus</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>mol_type</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>unassigned DNA</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>db_xref</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>taxon:162145</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                            
+    
+    
+    </GBSeq_feature-table>
+                
+    
+    
+    <GBSeq_sequence>atgtctcttcaagggattcacctaagtgatctgtcatataaacatgctatattaaaagagtctcaatacacaataaaaagagatgtaggcaccacaactgcagtgacaccttcatcattgcagcaagagataacacttttgtgtggagagattctttacactaaacatactgattacaaatatgctgcagagatagggatacaatatatttgcacagctctaggatcagaaagagtacaacagattttaagaaattcaggtagtgaggttcaggtggttctaaccaagacatactctttagggaaaggtaaaaatagtaaaggggaagagttgcaaatgttagatatacatggagtggaaaagagttgggtagaagaaatagacaaagaggcaagaaaaacaatggtgactttgctaaaggaatcatcaggcaacatcccacaaaaccagaggccttcagcaccagacacaccaataattttattgtgtgtaggtgctttaatattcactaaactagcatcaacaatagaagttggactagagactacagttagaagggctaacagagtgttaagtgatgcgctcaaaagataccctagggtagatataccaaagattgctagatctttttatgaactatttgagcagaaagtgtattacaggagtctattcattgagtatgggaaagctttaggctcatcttcaacaggaagcaaagcagaaagtttgtttgtaaatatatttatgcaagcttatggagccggtcagacaatgctaaggtggggtgtcattgccagatcatctaacaacataatgctagggcatgtatctgtgcaagctgaattgaaacaagttacagaggtttatgatttggtaagagaaatgggtcctgaatctgggcttttacatctaagacaaagtccaaaggcaggactgttatcgttggctaattgccccaattttgctagtgttgttcttggtaatgcttcaggtctaggtataatcggaatgtacaggggaagagtgccaaacacagagctattttctgcagcagaaagttatgccagaagcttaaaagaaagcaacaaaatcaacttctcctcattagggctcacagacgaagaaaaagaagctgcagaacacttcttaaacatgagtgatgacaatcaagatgattatgagtaa</GBSeq_sequence>
+              
+
+
+</GBSeq>

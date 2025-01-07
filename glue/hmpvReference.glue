@@ -1,0 +1,36 @@
+
+    create reference REF_MASTER_HPMV ncbi-refseqs-hmpv AF371337
+
+    reference REF_MASTER_HPMV
+
+    add feature-location whole_genome
+    feature-location whole_genome add segment 1 13350
+     
+    add feature-location NP
+    feature-location NP add segment 40 1224
+
+    add feature-location P
+    feature-location P add segment 1248 2132
+     
+    add feature-location M
+    feature-location M add segment 2165 2929
+     
+    add feature-location F
+    feature-location F add segment 3052 4671
+     
+    add feature-location M2_1
+    feature-location M2_1 add segment 4737 5300
+     
+    add feature-location M2_2
+    feature-location M2_2 add segment 5248 5463
+     
+    add feature-location SH
+    feature-location SH add segment 5494 6045
+     
+    add feature-location G
+    feature-location G add segment 6247 6957
+
+    add feature-location L
+    feature-location L add segment 7167 13184
+
+

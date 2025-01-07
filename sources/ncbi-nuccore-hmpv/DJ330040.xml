@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+                
+    
+    
+    <GBSeq_locus>DJ330040</GBSeq_locus>
+                
+    
+    
+    <GBSeq_length>13350</GBSeq_length>
+                
+    
+    
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+                
+    
+    
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+                
+    
+    
+    <GBSeq_topology>linear</GBSeq_topology>
+                
+    
+    
+    <GBSeq_division>PAT</GBSeq_division>
+                
+    
+    
+    <GBSeq_update-date>25-MAR-2008</GBSeq_update-date>
+                
+    
+    
+    <GBSeq_create-date>25-MAR-2008</GBSeq_create-date>
+                
+    
+    
+    <GBSeq_definition>RECOMBINANT HUMAN METAPNEUMOVIRUS AND ITS USE</GBSeq_definition>
+                
+    
+    
+    <GBSeq_primary-accession>DJ330040</GBSeq_primary-accession>
+                
+    
+    
+    <GBSeq_accession-version>DJ330040.1</GBSeq_accession-version>
+                
+    
+    
+    <GBSeq_other-seqids>
+                              
+        
+        
+        <GBSeqid>dbj|DJ330040.1|</GBSeqid>
+                              
+        
+        
+        <GBSeqid>pat|JP|2007524372|23</GBSeqid>
+                              
+        
+        
+        <GBSeqid>gi|171441641</GBSeqid>
+                            
+    
+    
+    </GBSeq_other-seqids>
+                
+    
+    
+    <GBSeq_keywords>
+                              
+        
+        
+        <GBKeyword>JP 2007524372-A/23</GBKeyword>
+                            
+    
+    
+    </GBSeq_keywords>
+                
+    
+    
+    <GBSeq_source>human metapneumovirus (HMPV)</GBSeq_source>
+                
+    
+    
+    <GBSeq_organism>human metapneumovirus</GBSeq_organism>
+                
+    
+    
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Haploviricotina; Monjiviricetes; Mononegavirales; Pneumoviridae; Metapneumovirus; Metapneumovirus hominis</GBSeq_taxonomy>
+                
+    
+    
+    <GBSeq_references>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>1</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..13350</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Murphy,B.R.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Skiadopoulos,M.H.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Buchholz,U.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Biachesshi,S.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Collins,P.L.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>RECOMBINANT HUMAN METAPNEUMOVIRUS AND ITS USE</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>JP2007524372-A 23 30-AUG-2007 THE GOVERNMENT OF THE UNITED STATES OF AMERICA AS REPRESENTED BY THE SECRET ARY OF THE DEPARTMENT OF HEALTH AND HUMAN SERVICES</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                            
+    
+    
+    </GBSeq_references>
+                
+    
+    
+    <GBSeq_comment>OS human metapneumovirus~PN JP 2007524372-A/23~PD 30-AUG-2007~PF 27-FEB-2004 JP 2006508872~PR 28-FEB-2003 US 60/451119,13-JUN-2003 US 60/478667 PI brian r murphy,mario h skiadopoulos,ursula buchholz,stephen PI biachesshi,~PI peter l collins~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+                
+    
+    
+    <GBSeq_feature-table>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>source</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..13350</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>13350</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>DJ330040.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>organism</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>human metapneumovirus</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>mol_type</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>unassigned DNA</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>db_xref</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>taxon:162145</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                            
+    
+    
+    </GBSeq_feature-table>
+                
+    
+    
+    <GBSeq_sequence>gtataaattagattccaaaaaaatatgggacaagtgaaaatgtctcttcaagggattcacctgagtgatttatcatacaagcatgctatattaaaagagtctcagtacacaataaaaagagatgtgggtacaacaactgcagtgacaccctcatcattgcaacaagaaataacactgttgtgtggagaaattctgtatgctaaacatgctgactacaaatatgctgcagaaataggaatacaatatattagcacagctttaggatcagagagagtgcagcagattctgaggaactcaggcagtgaagtccaagtggtcttaaccagaacgtactctctggggaaaattaaaaacaataaaggagaagatttacagatgttagacatacacggggtagagaagagctgggtagaagagatagacaaagaagcaaggaaaacaatggcaaccttgcttaaggaatcatcaggtaatatcccacaaaatcagaggccctcagcaccagacacacccataatcttattatgtgtaggtgccttaatattcactaaactagcatcaaccatagaagtgggactagagaccacagtcagaagggctaaccgtgtactaagtgatgcactcaagagataccctagaatggacataccaaagattgccagatccttctatgacttatttgaacaaaaagtgtatcacagaagtttgttcattgagtatggcaaagcattaggctcatcatctacaggcagcaaagcagaaagtctatttgttaatatattcatgcaagcttatggggccggtcaaacaatgctaaggtggggggtcattgccaggtcatccaacaatataatgttaggacatgtatccgtccaagctgagttaaaacaggtcacagaagtctatgacttggtgcgagaaatgggccctgaatctggacttctacatttaaggcaaagcccaaaagctggactgttatcactagccaactgtcccaactttgcaagtgttgttctcggaaatgcctcaggcttaggcataatcggtatgtatcgagggagagtaccaaacacagaattattttcagcagctgaaagttatgccaaaagtttgaaagaaagcaataaaataaatttctcttcattaggacttacagatgaagagaaagaggctgcagaacatttcttaaatgtgagtgacgacagtcaaaatgattatgagtaattaaaaaagtgggacaagtcaaaatgtcattccctgaaggaaaagatattcttttcatgggtaatgaagcagcaaaattagcagaagctttccagaaatcattaagaaaaccaggtcataaaagatctcaatctattataggagaaaaagtgaatactgtatcagaaacattggaattacctactatcagtagacctgcaaaaccaaccataccgtcagaaccaaagttagcatggacagataaaggtggggcaaccaaaactgaaataaagcaagcaatcaaagtcatggatcccattgaagaagaagagtctaccgagaagaaggtgctaccctccagtgatgggaaaacccctgcagaaaagaaactgaaaccatcaactaacaccaaaaagaaggtttcatttacaccaaatgaaccagggaaatatacaaagttggaaaaagatgctctagatttgctctcagataatgaagaagaagatgcagaatcttcaatcttaacctttgaagaaagagatacttcatcattaagcattgaggccagattggaatcaatagaggagaaattaagcatgatattagggctattaagaacactcaacattgctacagcaggacccacagcagcaagagatgggatcagagatgcaatgattggcgtaagagaggaattaatagcagacataataaaggaagctaaagggaaagcagcagaaatgatggaagaggaaatgagtcaacgatcaaaaataggaaatggtagtgtaaaattaacagaaaaagcaaaagagctcaacaaaattgttgaagatgaaagcacaagtggagaatccgaagaagaagaagaaccaaaagacacacaagacaatagtcaagaagatgacatttaccagttaattatgtagtttaataaaaataaacaatgggacaagtaaaaatggagtcctacctagtagacacctatcaaggcattccttacacagcagctgttcaagttgatctaatagaaaaggacctgttacctgcaagcctaacaatatggttccctttgtttcaggccaacacaccaccagcagtgctgctcgatcagctaaaaaccctgacaataaccactctgtatgctgcatcacaaaatggtccaatactcaaagtgaatgcatcagcccaaggtgcagcaatgtctgtacttcccaaaaaatttgaagtcaatgcgactgtagcactcgatgaatatagcaaactggaatttgacaaactcacagtctgtgaagtaaaaacagtttacttaacaaccatgaaaccatacgggatggtatcaaaatttgtgagctcagccaaatcagttggcaaaaaaacacatgatctaatcgcactatgtgattttatggatctagaaaagaacacacctgttacaataccagcattcatcaaatcagtttcaatcaaagagagtgagtcagctactgttgaagctgctataagcagtgaagcagaccaagctctaacacaggccaaaattgcaccttatgcgggattaattatgatcatgactatgaacaatcccaaaggcatattcaaaaagcttggagctgggactcaagtcatagtagaactaggagcatatgtccaggctgaaagcataagcaaaatatgcaagacttggagccatcaagggacaagatatgtcttgaagtccagataacaaccaagcaccttggccaagagctactaaccctatctcatagatcataaagtcaccattctagttatataaaaatcaagttagaacaagaattaaatcaatcaagaacgggacaaataaaaatgtcttggaaagtggtgatcattttttcattgttaataacacctcaacacggtcttaaagagagctacttagaagagtcatgtagcactataactgaaggatatctcagtgttctgaggacaggttggtacaccaatgtttttacactggaggtaggcgatgtagagaaccttacatgtgccgatggacccagcttaataaaaacagaattagacctgaccaaaagtgcactaagagagctcagaacagtttctgctgatcaactggcaagagaggagcaaattgaaaatcccagacaatctagattcgttctaggagcaatagcactcggtgttgcaactgcagctgcagttacagcaggtgttgcaattgccaaaaccatccggcttgaaagtgaagtaacagcaattaagaatgccctcaaaaagaccaatgaagcagtatctacattggggaatggagttcgtgtgttggcaactgcagtgagagagctgaaagattttgtgagcaagaatctaacacgtgcaatcaacaaaaacaagtgcgacattgctgacctgaaaatggccgttagcttcagtcaattcaacagaaggttcctaaatgttgtgcggcaattttcagacaacgctggaataacaccagcaatatctttggacttaatgacagatgctgaactagccagagctgtttccaacatgccaacatctgcaggacaaataaaactgatgttggagaaccgtgcaatggtaagaagaaaagggttcggattcctgataggagtttacggaagctccgtaatttacatggtgcaactgccaatctttggggttatagacacgccttgctggatagtaaaagcagccccttcttgttcaggaaaaaagggaaactatgcttgcctcttaagagaagaccaaggatggtattgtcaaaatgcagggtcaactgtttactacccaaatgaaaaagactgtgaaacaagaggagaccatgtcttttgcgacacagcagcaggaatcaatgttgctgagcagtcaaaggagtgcaacataaacatatctactactaattacccatgcaaagttagcacaggaagacatcctatcagtatggttgcactatctcctcttggggctttggttgcttgctacaagggagtgagctgttccattggcagcaacagagtagggatcatcaagcaactgaacaaaggctgctcttatataaccaaccaagacgcagacacagtgacaatagacaacactgtataccagctaagcaaagttgaaggcgaacagcatgttataaaaggaaggccagtgtcaagcagctttgacccagtcaagtttcctgaagatcaattcaatgttgcacttgaccaagttttcgagagcattgagaacagtcaggccttggtggatcaatcaaacagaatcctaagcagtgcagagaaaggaaacactggcttcatcattgtaataattctaattgctgtccttggctctaccatgatcctagtgagtgtttttatcataataaagaaaacaaagaaacccacaggagcacctccagagctgagtggtgtcacaaacaatggcttcataccacataattagttaattaaaaataaagtaaattaaaataaattaaaattaaaaataaaaatttgggacaaatcataatgtctcgcaaggctccgtgcaaatatgaagtgcggggcaaatgcaatagaggaagtgagtgcaagtttaaccacaattactggagttggccagatagatacttattaataagatcaaattatttattaaatcaacttttaaggaacactgatagagctgatggcttatcaataatatcaggagcaggcagagaagataggacacaagattttgtcctaggttccaccaatgtggttcaaggttatattgatgataaccaaagcataacaaaagctgcagcctgttacagtctacataatataatcaaacaactacaagaagttgaagttaggcaggctagagataacaaactatctgacagcaaacatgtagcacttcacaacttagtcctatcttatatggagatgagcaaaactcctgcatctttaatcaacaatctcaagagactgccgagagagaaactgaaaaaattagcaaagctcataattgacttatcagcaggtgctgaaaatgactcttcatatgccttgcaagacagtgaaagcactaatcaagtgcagtgagcatggtccagttttcattactatagaggttgatgacatgatatggactcacaaggacttaaaagaagctttatctgatgggatagtgaagtctcatactaacatttacaattgttatttagaaaacatagaaattatatatgtcaaggcttacttaagttagtaaaaacacatcagagtgggataaatgacaatgataacattagatgtcattaaaagtgatgggtcttcaaaaacatgtactcacctcaaaaaaataattaaagaccactctggtaaagtgcttattgtacttaagttaatattagctttactaacatttctcacagtaacaatcaccatcaattatataaaagtggaaaacaatctgcaaatatgccagtcaaaaactgaatcagacaaaaaggactcatcatcaaataccacatcagtcacaaccaagactactctaaatcatgatatcacacagtattttaaaagtttgattcaaaggtatacaaactctgcaataaacagtgacacatgctggaaaataaacagaaatcaatgcacaaatataacaacatacaaatttttatgttttaaatctgaagacacaaaaaccaacaattgtgataaactgacagatttatgcagaaacaaaccaaaaccagcagttggagtgtatcacatagtagaatgccattgtatatacacagttaaatggaagtgctatcattacccaaccgatgaaacccaatcctaaatgttaacaccagattaggatccatccaagtctgttagttcaacaatttagttatttaaaaatattttgaaaacaagtaagtttctatgatacttcataataataagtaataattaattgcttaatcatcatcacaacattattcgaaaccataactattcaatttaaaaagtaaaaaacaataacatgggacaagtagttatggaggtgaaagtggagaacattcgaacaatagatatgctcaaagcaagagtaaaaaatcgtgtggcacgcagcaaatgctttaaaaatgcctctttggtcctcataggaataactacattgagtattgccctcaatatctatctgatcataaactataaaatgcaaaaaaacacatctgaatcagaacatcacaccagctcatcacccatggaatccagcagagaaactccaacggtccccacagacaactcagacaccaactcaagcccacagcatccaactcaacagtccacagaaggctccacactctactttgcagcctcagcaagctcaccagagacagaaccaacatcaacaccagatacaacaaaccgcccgcccttcgtcgacacacacacaacaccaccaagcgcaagcagaacaaagacaagtccggcagtccacacaaaaaacaacccaaggacaagctctagaacacattctccaccacgggcaacgacaaggacggcacgcagaaccaccactctccgcacaagcagcacaagaaagagaccgtccacagcatcagtccaacctgacatcagcgcaacaacccacaaaaacgaagaagcaagtccagcgagcccacaaacatctgcaagcacaacaagaatacaaaggaaaagcgtggaggccaacacatcaacaacatacaaccaaactagttaacaaaaaatacaaaataactctaagataaaccatgcagacaccaacaatggagaagccaaaagacaattcacaatctccccaaaaaggcaacaacaccatattagctctgcccaaatctccctggaaaaaacactcgcccatataccaaaaataccacaaccaccccaagaaaaaaactgggcaaaacaacacccaagagacaaataacaatggatcctctcaatgaatccactgttaatgtctatcttcctgactcatatcttaaaggagtgatttcctttagtgagactaatgcaattggttcatgtctcttaaaaagaccttacctaaaaaatgacaacactgcaaaagttgccatagagaatcctgttatcgagcatgttagactcaaaaatgcagtcaattctaagatgaaaatatcagattacaagatagtagagccagtaaacatgcaacatgaaattatgaagaatgtacacagttgtgagctcacattattaaaacagtttttaacaaggagtaaaaatattagcactctcaaattaaatatgatatgtgattggctgcagttaaagtctacatcagatgatacctcaatcctaagttttatagatgtagaatttatacctagctgggtaagcaattggtttagtaattggtacaatctcaacaagttgattctggaattcaggaaagaagaagtaataagaactggttcaatcttgtgtaggtcattgggtaaattagtttttgttgtatcatcatatggatgtatagtcaagagcaacaaaagcaaaagagtgagcttcttcacatacaatcaactgttaacatggaaagatgtgatgttaagtagattcaatgcaaatttttgtatatgggtaagcaacagtctgaatgaaaatcaagaagggctagggttgagaagtaatctgcaaggcatattaactaataagctatatgaaactgtagattatatgcttagtttatgttgcaatgaaggtttctcacttgtgaaagagttcgaaggctttattatgagtgaaattcttaggattactgaacatgctcaattcagtactagatttagaaatactttattaaatggattaactgatcaattaacaaaattaaaaaataaaaacagactcagagttcatggtaccgtgttagaaaataatgattatccaatgtacgaagttgtacttaagttattaggagatactttgagatgtattaaattattaatcaataaaaacttagagaatgctgctgaattatactatatatttagaatattcggtcacccaatggtagatgaaagagatgcaatggatgctgtcaaattaaacaatgaaatcacaaaaatccttaggtgggagagcttgacagaactaagaggggcattcatattaaggattatcaaaggatttgtagacaacaacaaaagatggcccaaaattaaaaacttaaaagtgcttagtaagagatggactatgtacttcaaagcaaaaagttaccccagtcaacttgaattaagcgaacaagattttttagagcttgctgcaatacagtttgaacaagagttttctgtccctgaaaaaaccaaccttgagatggtattaaatgataaagctatatcacctcctaaaagattaatatggtctgtgtatccaaaaaattacttacctgagaaaataaaaaatcgatatctagaagagactttcaatgcaagtgatagtctcaaaacaagaagagtactagagtactatttgaaagataataaattcgaccaaaaagaacttaaaagttatgttgttaaacaagaatatttaaatgataaggatcatattgtctcgctaactggaaaagaaagagaattaagtgtaggtagaatgtttgctatgcaaccaggaaaacagcgacaaatacaaatattggctgaaaaattgttagctgataatattgtaccttttttcccagaaaccttaacaaagtatggtgatctagatcttcagagaataatggaaatcaaatcggaactttcttctattaaaactagaagaaatgatagttataataattacattgcaagagcatccatagtaacagatttaagtaagttcaaccaagcctttaggtatgaaactacagcgatctgtgcggatgtagcagatgaactacatggaacacaaagcctattctgttggttacatcttatcgtccctatgacaacaatgatatgtgcctatagacatgcaccaccagaaacaaaaggtgaatatgatatagataagatagaagagcaaagtggtttatatagatatcatatgggtggtattgaaggatggtgtcaaaaactctggacaatggaagctatatctctattagatgttgtatctgtaaaaacacgatgtcaaatgacatctttattaaacggtgacaaccaatcaatagatgtaagtaaaccagttaagttatctgagggtttagatgaagtgaaagcagattatagcttggctgtaaaaatgttaaaagaaataagagatgcatacagaaatataggccataaacttaaagaaggggaaacatatatatcaagagatcttcagtttataagtaaggtgattcaatctgaaggagtaatgcatcctacccctataaaaaagatcttaagagtgggaccatggataaacacaatattagatgacattaaaaccagtgcagagtcaatagggagtctatgtcaggaattagaatttaggggggaaagcataatagttagtctgatattaaggaatttttggctgtataatttatacatgcatgaatcaaagcaacaccccctagcagggaagcagttattcaaacaactaaataaaacattaacatcagtgcagagattttttgaaataaaaaaggaaaatgaagtagtagatctatggatgaacataccaatgcagtttggaggaggagatccagtagtcttctatagatctttctatagaaggacccctgattttttaactgaagcaatcagtcatgtggatattctgttaagaatatcagccaacataagaaatgaagcgaaaataagtttcttcaaagccttactgtcaatagaaaaaaatgaacgtgctacactgacaacactaatgagagatcctcaagctgttggctcagagcgacaagcaaaagtaacaagtgatatcaatagaacagcagttaccagcatcttaagtctttctccaaatcaacttttcagcgatagtgctatacactacagtagaaatgaagaagaggtcggaatcattgctgacaacataacacctgtttatcctcatggactgagagttttgtatgaatcattaccttttcataaagctgaaaaagttgtgaatatgatatcaggaacgaaatccataaccaacttattacagagaacatctgctattaatggtgaagatattgacagagctgtatccatgatgctggagaacctaggattattatctagaatattgtcagtagttgttgatagtatagaaattccaaccaaatctaatggtaggctgatatgttgtcagatatctagaaccctaagggagacatcatggaataatatggaaatagttggagtaacatcccctagcatcactacatgcatggatgtcatatatgcaactagctctcatttgaaagggataatcattgaaaagttcagcactgacagaactacaagaggtcaaagaggtccaaagagcccttgggtagggtcgagcactcaagagaaaaaattagttcctgtttataacagacaaattctttcaaaacaacaaagagaacagctagaagcaattggaaaaatgagatgggtatataaagggacaccaggtttaagacgattactcaataagatttgtcttggaagtttaggcattagttacaaatgtgtaaaacctttattacctaggtttatgagtgtaaatttcctacacaggttatctgtcagtagtagacctatggaattcccagcatcagttccagcttatagaacaacaaattaccattttgacactagtcctattaatcaagcactaagtgagagatttgggaatgaagatattaatttggtcttccaaaatgcaatcagctgtggaattagcataatgagtgtagtagaacaattaactggtaggagtccaaaacagttagttttaatacctcaattagaagaaatagacattatgccaccaccagtgtttcaagggaaattcaattataagctagtagataagataacttctgatcaacatatcttcagtccagacaaaatagatatgttaacactggggaaaatgctcatgcccactataaaaggtcagaaaacagatcagttcctgaacaagagagagaattatttccatgggaataatcttattgagtctttgtcagcagcgttagcatgtcattggtgtgggatattaacagagcaatgtatagaaaataatattttcaagaaagactggggtgacgggttcatatcggatcatgcttttatggacttcaaaatattcctatgtgtctttaaaactaaacttttatgtagttgggggtcccaagggaaaaacattaaagatgaagatatagtagatgaatcaatagataaactgttaaggattgataatactttttggagaatgttcagcaaggttatgtttgaatcaaaggttaagaaaaggataatgttatatgatgtaaaatttctatcattagtaggttatatagggtttaagaattggtttatagaacagttgagatcagctgagttgcatgaggtaccttggattgtcaatgccgaaggtgatctggttgagatcaagtcaattaaaatctatttgcaactgatagagcaaagtttatttttaagaataactgttttgaactatacagatatggcacatgctctcacaagattaatcagaaagaagttgatgtgtgataatgcactattaactccgattccatccccaatggttaatttaactcaagttattgatcctacagaacaattagcttatttccctaagataacatttgaaaggctaaaaaattatgacactagttcaaattatgctaaaggaaagctaacaaggaattacatgatactgttgccatggcaacatgttaatagatataactttgtctttagttctactggatgtaaagttagtctaaaaacatgcattggaaaacttatgaaagatctaaaccctaaagttctgtactttattggagaaggggcaggaaattggatggccagaacagcatgtgaatatcctgacatcaaatttgtatacagaagtttaaaagatgaccttgatcatcattatcctttggaataccagagagttataggagaattaagcaggataatagatagcggtgaagggctttcaatggaaacaacagatgcaactcaaaaaactcattgggatttgatacacagagtaagcaaagatgctttattaataactttatgtgatgcagaatttaaggacagagatgatttttttaagatggtaattctatggaggaaacatgtattatcatgcagaatttgcactacttatgggacagacctctatttattcgcaaagtatcatgctaaagactgcaatgtaaaattacctttttttgtgagatcagtagccacctttattatgcaaggtagtaaactgtcaggctcagaatgctacatactcttaacactaggccaccacaacaatttaccctgccatggagaaatacaaaattctaagatgaaaatagcagtgtgtaatgatttttatgctgcaaaaaaacttgacaataaatctattgaagccaactgtaaatcacttttatcagggctaagaataccgataaataagaaagaattaaatagacagagaaggttattaacactacaaagcaaccattcttctgtagcaacagttggaggtagcaaggtcatagagtctaaatggttaacaaacaaggcaaacacaataattgattggttagaacatattttaaattctccaaaaggtgaattaaattatgatttttttgaagcattagaaaatacttaccctaatatgattaaactaatagataatctagggaatgcagagataaaaaaactgatcaaagtaactggatatatgcttgtaagtaaaaaatgaaaaatgataaaaatgataaaataggtgacaacttcatactattccaaagtaatcatttgattatgcaattatgtaatagttaattaaaaactaaaaatcaaaagttagaaactaacaactgtcattaagtttattaaaaataagaaattataattggatgtatacg</GBSeq_sequence>
+              
+
+
+</GBSeq>

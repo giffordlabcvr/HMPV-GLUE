@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+                
+    
+    
+    <GBSeq_locus>DD266413</GBSeq_locus>
+                
+    
+    
+    <GBSeq_length>765</GBSeq_length>
+                
+    
+    
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+                
+    
+    
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+                
+    
+    
+    <GBSeq_topology>linear</GBSeq_topology>
+                
+    
+    
+    <GBSeq_division>PAT</GBSeq_division>
+                
+    
+    
+    <GBSeq_update-date>16-JUN-2006</GBSeq_update-date>
+                
+    
+    
+    <GBSeq_create-date>16-JUN-2006</GBSeq_create-date>
+                
+    
+    
+    <GBSeq_definition>METHODS OF TREATING AND PREVENTING RSV, HMPV, AND PIV USING ANTI-RSV, ANTI-HMPV, AND ANTI-PIV ANTIBODIES</GBSeq_definition>
+                
+    
+    
+    <GBSeq_primary-accession>DD266413</GBSeq_primary-accession>
+                
+    
+    
+    <GBSeq_accession-version>DD266413.1</GBSeq_accession-version>
+                
+    
+    
+    <GBSeq_other-seqids>
+                              
+        
+        
+        <GBSeqid>dbj|DD266413.1|</GBSeqid>
+                              
+        
+        
+        <GBSeqid>pat|JP|2005533861|231</GBSeqid>
+                              
+        
+        
+        <GBSeqid>gi|109246244</GBSeqid>
+                            
+    
+    
+    </GBSeq_other-seqids>
+                
+    
+    
+    <GBSeq_keywords>
+                              
+        
+        
+        <GBKeyword>JP 2005533861-A/231</GBKeyword>
+                            
+    
+    
+    </GBSeq_keywords>
+                
+    
+    
+    <GBSeq_source>human metapneumovirus (HMPV)</GBSeq_source>
+                
+    
+    
+    <GBSeq_organism>human metapneumovirus</GBSeq_organism>
+                
+    
+    
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Haploviricotina; Monjiviricetes; Mononegavirales; Pneumoviridae; Metapneumovirus; Metapneumovirus hominis</GBSeq_taxonomy>
+                
+    
+    
+    <GBSeq_references>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>1</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..765</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Foshie,R.A.M.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Osuterausu,A.D.M.E.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Young,J.F.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Kina,P.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>METHODS OF TREATING AND PREVENTING RSV, HMPV, AND PIV USING ANTI-RSV, ANTI-HMPV, AND ANTI-PIV ANTIBODIES</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>JP2005533861-A 231 10-NOV-2005 MedImmune Inc,VIROVATIVE BV</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                            
+    
+    
+    </GBSeq_references>
+                
+    
+    
+    <GBSeq_comment>OS Human metapneumovirus~PN JP 2005533861-A/231~PD 10-NOV-2005~PF 25-JUL-2003 JP 2004524853~PR 25-JUL-2002 US 60/398475~PI ronarudosu a m foshie,albertus d m e osuterausu,james f young, PI peter kina~CC~FH Key Location/Qualifiers~FT CDS (1)...(765)~FT /note='Matrix Protein (M)'.</GBSeq_comment>
+                
+    
+    
+    <GBSeq_feature-table>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>source</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..765</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>765</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>DD266413.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>organism</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>human metapneumovirus</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>mol_type</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>unassigned DNA</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>db_xref</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>taxon:162145</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                            
+    
+    
+    </GBSeq_feature-table>
+                
+    
+    
+    <GBSeq_sequence>atggagtcctacctagtagacacctatcaaggcattccttacacagcagctgttcaagttgatctaatagaaaaggacctgttacctgcaagcctaacaatatggttccctttgtttcaggccaacacaccaccagcagtgctgctcgatcagctaaaaaccctgacaataaccactctgtatgctgcatcacaaaatggtccaatactcaaagtgaatgcatcagcccaaggtgcagcaatgtctgtacttcccaaaaaatttgaagtcaatgcgactgtagcactcgatgaatatagcaaactggaatttgacaaactcacagtctgtgaagtaaaaacagtttacttaacaaccatgaaaccatacgggatggtatcaaaatttgtgagctcagccaaatcagttggcaaaaaaacacatgatctaatcgcactatgtgattttatggatctagaaaagaacacacctgttacaataccagcattcatcaaatcagtttcaatcaaagagagtgagtcagctactgttgaagctgctataagcagtgaagcagaccaagctctaacacaggccaaaattgcaccttatgcgggattaattatgatcatgactatgaacaatcccaaaggcatattcaaaaagcttggagctgggactcaagtcatagtagaactaggagcatatgtccaggctgaaagcataagcaaaatatgcaagacttggagccatcaagggacaagatatgtcttgaagtccagataa</GBSeq_sequence>
+              
+
+
+</GBSeq>

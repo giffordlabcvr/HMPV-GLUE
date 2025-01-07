@@ -1,0 +1,96 @@
+<genbankXmlPopulator>
+
+	<gbOrganism>
+		<propertyPopulator property="full_name">
+		</propertyPopulator>
+	</gbOrganism>
+
+	<gbLength>
+		<propertyPopulator property="length"/>
+	</gbLength>
+
+	<gbDivision>
+		<propertyPopulator property="patent_related">
+			<matchPattern>PAT</matchPattern>
+			<outputTemplate>true</outputTemplate>
+		</propertyPopulator>
+	</gbDivision>
+
+	<gbReference>
+		<gbRefPubmed>
+			<propertyPopulator property="pubmed_id"/>
+		</gbRefPubmed>
+
+		<gbRefJournal>
+			<propertyPopulator property="gb_ref_journal"/>
+		</gbRefJournal>
+
+		<gbRefDoi>
+			<propertyPopulator property="gb_ref_doi"/>
+		</gbRefDoi>
+
+		<gbRefTitle>
+			<propertyPopulator property="gb_ref_title"/>
+		</gbRefTitle>
+	</gbReference>
+		
+	<gbCreateDate>
+		<propertyPopulator property="gb_create_date"/>
+	</gbCreateDate>
+
+	<gbUpdateDate>
+		<propertyPopulator property="gb_update_date"/>
+	</gbUpdateDate>
+
+	
+	<gbFeature key="source">
+	
+		<gbQualifier name="isolate">
+			<propertyPopulator property="isolate_id"/>
+		</gbQualifier>
+        
+		<gbQualifier name="country">
+			<propertyPopulator property="iso_country"/>
+			<propertyPopulator property="iso_region">
+				<matchPattern>^.*:(.*)$</matchPattern>
+				<outputTemplate>${g1?trim}</outputTemplate>
+			</propertyPopulator>
+		</gbQualifier>
+        
+        <gbQualifier name="geo_loc_name">
+            <propertyPopulator property="iso_country"/>
+            <propertyPopulator property="iso_region">
+                <matchPattern>^.*:(.*)$</matchPattern>
+                <outputTemplate>${g1?trim}</outputTemplate>
+            </propertyPopulator>
+        </gbQualifier>
+
+		<gbQualifier name="host">
+			<propertyPopulator property="iso_host">
+			</propertyPopulator>
+		</gbQualifier>
+
+		
+		<gbQualifier name="collection_date">
+            
+			<propertyPopulator property="iso_day">
+				<matchPattern>(\d{2})-[A-Za-z]{3}-\d{4}</matchPattern>
+				<outputTemplate>${g1}</outputTemplate>
+			</propertyPopulator>
+            
+			<propertyPopulator property="iso_month">
+				<matchPattern>\d{2}-([A-Za-z]{3})-\d{4}</matchPattern>
+				<outputTemplate>${g1?upper_case}</outputTemplate>
+			</propertyPopulator>
+            
+			<propertyPopulator property="iso_year">
+				<matchPattern>(\d{4})</matchPattern>
+				<outputTemplate>${g1}</outputTemplate>
+			</propertyPopulator>
+		</gbQualifier>
+		
+		
+		
+	</gbFeature>
+	
+</genbankXmlPopulator>

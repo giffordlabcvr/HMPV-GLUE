@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+                
+    
+    
+    <GBSeq_locus>EF571511</GBSeq_locus>
+                
+    
+    
+    <GBSeq_length>696</GBSeq_length>
+                
+    
+    
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+                
+    
+    
+    <GBSeq_moltype>cRNA</GBSeq_moltype>
+                
+    
+    
+    <GBSeq_topology>linear</GBSeq_topology>
+                
+    
+    
+    <GBSeq_division>VRL</GBSeq_division>
+                
+    
+    
+    <GBSeq_update-date>22-MAY-2007</GBSeq_update-date>
+                
+    
+    
+    <GBSeq_create-date>22-MAY-2007</GBSeq_create-date>
+                
+    
+    
+    <GBSeq_definition>Human metapneumovirus strain CHN12-06 attachment protein gene, complete cds</GBSeq_definition>
+                
+    
+    
+    <GBSeq_primary-accession>EF571511</GBSeq_primary-accession>
+                
+    
+    
+    <GBSeq_accession-version>EF571511.1</GBSeq_accession-version>
+                
+    
+    
+    <GBSeq_other-seqids>
+                              
+        
+        
+        <GBSeqid>gb|EF571511.1|</GBSeqid>
+                              
+        
+        
+        <GBSeqid>gi|146760823</GBSeqid>
+                            
+    
+    
+    </GBSeq_other-seqids>
+                
+    
+    
+    <GBSeq_source>human metapneumovirus (HMPV)</GBSeq_source>
+                
+    
+    
+    <GBSeq_organism>human metapneumovirus</GBSeq_organism>
+                
+    
+    
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Haploviricotina; Monjiviricetes; Mononegavirales; Pneumoviridae; Metapneumovirus; Metapneumovirus hominis</GBSeq_taxonomy>
+                
+    
+    
+    <GBSeq_references>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>1</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..696</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Liu,W.P.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Qu,X.W.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Xie,Z.P.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Hou,Y.D.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>Global Variation of human metapneumovirus attachment protein G gene</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>Unpublished</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>2</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..696</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Liu,W.P.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Qu,X.W.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Xie,Z.P.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Hou,Y.D.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>Direct Submission</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>Submitted (23-APR-2007) State Key Lab of Gene Engineering, Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention, Ying-Xin Rd.100, Xuan Wu District, Beijing, Beijing 100052, China</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                            
+    
+    
+    </GBSeq_references>
+                
+    
+    
+    <GBSeq_feature-table>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>source</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..696</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>696</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>EF571511.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>organism</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>human metapneumovirus</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>mol_type</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>viral cRNA</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>strain</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>CHN12-06</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>db_xref</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>taxon:162145</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>geo_loc_name</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>China: Hu Nan Province</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>CDS</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..696</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>696</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>EF571511.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>note</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>glycoprotein; G protein</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>codon_start</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>transl_table</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>product</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>attachment protein</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>protein_id</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>ABQ44528.1</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>translation</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>MEARVENIRAIDMFKAKIKNRIKSSRCYRNATLILIGLTALSMALNIFLIIDHATLRNMIKTENCANMPSAEPSKKTPMTSTAGPSTKPNPQQATQWTTENSTSPAATLEGHPYTGTTQTPDTTAPQQTTGKHTALPKSTNKQITQTTTEKKTTRATTQKREKGKENTNQTTSTAATQTTNTTNQIRNASETITTSDRPRTDTTTQSSEQTIRTTEPGSSPYHARRGAGPR</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                            
+    
+    
+    </GBSeq_feature-table>
+                
+    
+    
+    <GBSeq_sequence>atggaagcaagagtggagaacattcgagcgatagacatgttcaaagcaaagataaagaaccgtataaaaagcagcaggtgctatagaaatgctacactgatccttattggactaacagcattaagcatggcacttaatattttcctgatcattgatcatgcaacattaagaaacatgatcaaaacagaaaactgtgctaacatgccgtcggcagaaccaagcaaaaagaccccaatgacctccacagcaggcccaagcaccaaacccaatccacagcaagcaacacagtggaccacagagaactcaacatctccggcagcaaccctagaaggccatccatacacagggacaactcaaacaccagacacaacagctccccagcaaaccacaggcaaacacacagcactgccaaaatcaaccaacaaacagatcacccagacaaccacagagaaaaagacaaccagagcaacaacccaaaaaagggaaaaaggaaaagaaaacacaaaccaaaccacaagtacagctgcaacccaaacaaccaacaccactaaccaaatcagaaatgcaagtgagacaatcacaacatccgacagacccagaaccgacaccaccacccaaagcagcgaacagacaatccggacaacagaaccaggctcctcaccataccatgcacggagaggtgcaggacccaggtga</GBSeq_sequence>
+              
+
+
+</GBSeq>

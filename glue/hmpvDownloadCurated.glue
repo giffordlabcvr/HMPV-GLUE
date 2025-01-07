@@ -1,0 +1,9 @@
+# Download HMPV sequences from NCBI GenBank
+
+delete module hmpvDownloadNuccore
+
+create module -f modules/download/hmpvDownloadNuccore.xml
+
+module hmpvDownloadNuccore import
+
+export source ncbi-nuccore-hmpv

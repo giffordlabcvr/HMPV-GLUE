@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+                
+    
+    
+    <GBSeq_locus>PF389310</GBSeq_locus>
+                
+    
+    
+    <GBSeq_length>1617</GBSeq_length>
+                
+    
+    
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+                
+    
+    
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+                
+    
+    
+    <GBSeq_topology>linear</GBSeq_topology>
+                
+    
+    
+    <GBSeq_division>PAT</GBSeq_division>
+                
+    
+    
+    <GBSeq_update-date>15-NOV-2024</GBSeq_update-date>
+                
+    
+    
+    <GBSeq_create-date>15-NOV-2024</GBSeq_create-date>
+                
+    
+    
+    <GBSeq_definition>KR 1020230146047-A/1003: ANTIBODIES THAT BIND METAPNEUMOVIRUS, ANTIGENIC METAPNEUMOVIRUS PROTEINS, AND USES THEREOF</GBSeq_definition>
+                
+    
+    
+    <GBSeq_primary-accession>PF389310</GBSeq_primary-accession>
+                
+    
+    
+    <GBSeq_accession-version>PF389310.1</GBSeq_accession-version>
+                
+    
+    
+    <GBSeq_other-seqids>
+                              
+        
+        
+        <GBSeqid>dbj|PF389310.1|</GBSeqid>
+                              
+        
+        
+        <GBSeqid>pat|KR|1020230146047|1003</GBSeqid>
+                              
+        
+        
+        <GBSeqid>gi|2852659427</GBSeqid>
+                            
+    
+    
+    </GBSeq_other-seqids>
+                
+    
+    
+    <GBSeq_keywords>
+                              
+        
+        
+        <GBKeyword>KR 1020230146047-A/1003</GBKeyword>
+                            
+    
+    
+    </GBSeq_keywords>
+                
+    
+    
+    <GBSeq_source>human metapneumovirus (HMPV)</GBSeq_source>
+                
+    
+    
+    <GBSeq_organism>human metapneumovirus</GBSeq_organism>
+                
+    
+    
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Negarnaviricota; Haploviricotina; Monjiviricetes; Mononegavirales; Pneumoviridae; Metapneumovirus; Metapneumovirus hominis</GBSeq_taxonomy>
+                
+    
+    
+    <GBSeq_references>
+                              
+        
+        
+        <GBReference>
+                                            
+            
+            
+            <GBReference_reference>1</GBReference_reference>
+                                            
+            
+            
+            <GBReference_position>1..1617</GBReference_position>
+                                            
+            
+            
+            <GBReference_authors>
+                                                          
+                
+                
+                <GBAuthor>Chen,Z.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Cox,K.S.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Fridman,A.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Galli,J.D.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Su,H.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Tang,A.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Vora,K.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Wen,Z.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Xiao,X.</GBAuthor>
+                                                          
+                
+                
+                <GBAuthor>Zhang,L.</GBAuthor>
+                                                        
+            
+            
+            </GBReference_authors>
+                                            
+            
+            
+            <GBReference_title>ANTIBODIES THAT BIND METAPNEUMOVIRUS, ANTIGENIC METAPNEUMOVIRUS PROTEINS, AND USES THEREOF</GBReference_title>
+                                            
+            
+            
+            <GBReference_journal>KR1020230146047-A 1003 18-OCT-2023 Merck Sharp &amp; Dohme LLC</GBReference_journal>
+                                          
+        
+        
+        </GBReference>
+                            
+    
+    
+    </GBSeq_references>
+                
+    
+    
+    <GBSeq_comment>KN KR 1020237030905-A/1003~AN KR 1020237030905~AD 2023-09-11~PN KR 1020230146047~PD 2023-10-18~AT ANTIBODIES THAT BIND METAPNEUMOVIRUS, ANTIGENIC~AT METAPNEUMOVIRUS PROTEINS, AND USES THEREOF~AI Chen, Zhifeng|Cox, Kara S.|Fridman, Arthur|Galli, Jennifer~AI Dawn|Su, Hua-Poo|Tang, Aimin|Vora, Kalpit|Wen, Zhiyun|Xiao,~AI Xiao|Zhang, Lan~AA Merck Sharp &amp; Dohme LLC~PR US 63/276,172=2021-11-05|US 63/148,920=2021-02-12~OS Human metapneumovirus~TY DNA~FH Key Location/Qualifiers.</GBSeq_comment>
+                
+    
+    
+    <GBSeq_feature-table>
+                              
+        
+        
+        <GBFeature>
+                                            
+            
+            
+            <GBFeature_key>source</GBFeature_key>
+                                            
+            
+            
+            <GBFeature_location>1..1617</GBFeature_location>
+                                            
+            
+            
+            <GBFeature_intervals>
+                                                          
+                
+                
+                <GBInterval>
+                                                                        
+                    
+                    
+                    <GBInterval_from>1</GBInterval_from>
+                                                                        
+                    
+                    
+                    <GBInterval_to>1617</GBInterval_to>
+                                                                        
+                    
+                    
+                    <GBInterval_accession>PF389310.1</GBInterval_accession>
+                                                                      
+                
+                
+                </GBInterval>
+                                                        
+            
+            
+            </GBFeature_intervals>
+                                            
+            
+            
+            <GBFeature_quals>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>organism</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>human metapneumovirus</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>mol_type</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>unassigned DNA</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                          
+                
+                
+                <GBQualifier>
+                                                                        
+                    
+                    
+                    <GBQualifier_name>db_xref</GBQualifier_name>
+                                                                        
+                    
+                    
+                    <GBQualifier_value>taxon:162145</GBQualifier_value>
+                                                                      
+                
+                
+                </GBQualifier>
+                                                        
+            
+            
+            </GBFeature_quals>
+                                          
+        
+        
+        </GBFeature>
+                            
+    
+    
+    </GBSeq_feature-table>
+                
+    
+    
+    <GBSeq_sequence>atgtcttggaaagtgatgattatcatttcgttactcataacacctcagcacggactaaaagaaagttatttagaagaatcatgtagtactataactgaaggatatctcagtgttttaagaacaggttggtacaccaatgtctttacattagaagttggtgatgttgaaaatcttacatgtactgatggacctagcttaatcaaaacagaacttgacctaaccaaaagtgctctaagagaactcaaaacagtttctgctgatcagttagcgagagaagaacaaattgagaatcccagacaatcaaggtttgtcctaggtgcaatagctcttggtgttgccacagcagcagcagtcacggcaggcattgcgatagccaaaaccataaggcttgagagtgaagtgaatgcaatcaaaggtgctctcaaaacaaccaacgaggcagtatccacactaggaaatggagtgcgagtcctagccaccgcagtaagagagctgaaagaatttgtgagcaaaaacctgactagtgcaattaacaagaacaaatgtgacattgctgatctgaagatggctgtcagcttcagtcaattcaacagaagattcctaaatgttgtgcggcagttttcagacaatgcagggataacaccagcaatatcattggacctaatgactgatgctgagctggccagagctgtatcatacatgccaacatctgcaggacagataaaactaatgttagagaaccgtgcaatggtgaggagaaaaggatttggaatcttgataggggtctacggaagctccgtgatttacatggtccagctgccgatctttggtgtcatagatacaccttgttggataatcaaggcagctccctcttgttcagaaaaagatggaaattatgcttgcctcctaagagaggatcaagggtggtattgtaaaaatgcaggatccactgtttactacccaaatgataaagactgcgaaacaagaggtgatcatgttttttgtgacacagcagcagggatcaatgttgctgagcaatcaagagaatgcaacatcaacatatctacaaccaactacccatgcaaagtcagcacaggaagacaccctatcagcatggttgcactatcacctctcggtgctttggtagcttgctacaaaggggttagctgttcgattggcagtaatcgggttggaataatcaaacaactacctaaaggctgctcatacataactaaccaggacgcagacactgtaacaattgacaacactgtgtatcaactaagcaaagttgagggtgaacagcatgtaataaaagggagaccagtttcaagcagtttcgatccaatcaagtttcctgaggatcagttcaatgttgcgcttgatcaagtctttgaaagcattgaaaacagtcaagcactagtggaccagtcaaacaaaattctgaacagtgcagaaaaaggaaacactggcttcattattgtaataattttgattgctgttcttgggttaaccatgatttcagtgagcatcatcatcataatcaaaaaaacaaggaaacccacaggggcacctccagagctgaatggtgttaccaacggcggttttataccgcatagt</GBSeq_sequence>
+              
+
+
+</GBSeq>
