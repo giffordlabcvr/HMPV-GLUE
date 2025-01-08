@@ -1,0 +1,39 @@
+    delete project hmpv
+
+    create project hmpv "A GLUE project for human metapneumovirus" --minVersion 1.1.41
+
+    run file glue/hmpvSchemaExtensions.glue
+
+    project hmpv
+
+      # load project settings
+      run file glue/projectSettings.glue
+
+      # create modules
+      run file glue/hmpvModules.glue
+
+      # Define genome features
+      run file glue/hmpvFeatures.glue
+     
+      # Import reference sequences
+      import source sources/ncbi-refseqs-hmpv
+
+      # Import reference sequence-associated data
+      run file glue/hmpvLoadSequenceData.glue
+
+      # Define reference sequences
+      run file glue/hmpvReference.glue
+
+      # Import unconstrained alignment
+      run file glue/hmpvImportUnconstrainedAlignment.glue
+
+      # Define constrained alignment tree
+      run file glue/hmpvAlignmentTree.glue
+
+	  # Import reference phylogeny
+	  run file glue/hmpvImportReferencePhylogeny.glue
+
+      # Validate
+      validate
+
+    exit

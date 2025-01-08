@@ -5,6 +5,10 @@
 
   # Data import
   create module --fileName modules/hmpvSideDataImporterRefs.xml
+
+  # Genotyping
+  create module -f modules/hmpvMaxLikelihoodPlacer.xml
+  create module -f modules/hmpvMaxLikelihoodGenotyper.xml
   
   # Alignment
   create module -f modules/hmpvCompoundAligner.xml

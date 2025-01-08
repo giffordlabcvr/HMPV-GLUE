@@ -1,0 +1,16 @@
+<maxLikelihoodPlacer>
+
+	<raxmlEpaRunner>
+		<substitutionModel>GTRGAMMAI</substitutionModel>
+	</raxmlEpaRunner>
+
+	<!-- where the RAxML epa phylogeny will come from -->
+	<phyloAlignmentName>AL_HMPV_ROOT</phyloAlignmentName>
+	<phyloFieldName>phylogeny</phyloFieldName>
+
+	<!-- where the alignment will come from -->
+	<alignmentAlignmentName>AL_UNC_ROOT_HMPV</alignmentAlignmentName>
+	
+</maxLikelihoodPlacer>
+
+
