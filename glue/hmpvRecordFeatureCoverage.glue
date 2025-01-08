@@ -1,0 +1,9 @@
+  delete module hmpvFeaturePresenceRecorder
+  create module -f modules/hmpvFeaturePresenceRecorder.xml
+
+  module hmpvFeaturePresenceRecorder 
+
+    record feature-presence AL_HMPV_ROOT  --recursive --featureName whole_genome --descendentFeatures
+
+    exit
+

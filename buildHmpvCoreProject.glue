@@ -19,7 +19,7 @@
       import source sources/ncbi-refseqs-hmpv
 
       # Import reference sequence-associated data
-      run file glue/hmpvLoadSequenceData.glue
+      run file glue/hmpvLoadSequenceDataRefs.glue
 
       # Define reference sequences
       run file glue/hmpvReference.glue

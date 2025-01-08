@@ -1,0 +1,6 @@
+
+  # Load side data for nuccore sequences
+  module hmpvSideDataImporterNuccore populate -f tabular/hmpv-nuccore-data.tsv
+
+  # Import reference sequence data from GenBank XML
+  module hmpvGenbankXmlPopulator populate -w "source.name like 'ncbi-nuccore-hmpv%'"

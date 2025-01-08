@@ -1,0 +1,31 @@
+
+    project hmpv
+   
+      # Import nuccore sequences
+      import source sources/ncbi-nuccore-hmpv 
+
+      # Do genotyping
+      #run script glue/hmpvClassifyNuccore.js
+
+      # Import sequence-associated data for nuccore sequences
+      module hmpvGenbankXmlPopulator populate -w "source.name = 'ncbi-nuccore-hmpv'"
+
+	  # Add nuccore sequences to alignment tree
+	  run file glue/hmpvAlignmentTreeNuccore.glue
+
+	  # Align nuccore sequences
+	  run file glue/hmpvComputeAlignmentsNuccore.glue
+  
+	  # Record feature coverage in alignments
+	  run file glue/hmpvRecordFeatureCoverage.glue
+  
+	  # Run script to calculate aa replacements
+	  run script glue/hmpvGenerateReplacements.js
+
+	  # Count the number of sequences in which variants occur
+	  run script glue/hmpvSetVariantNumSeqs.js
+
+      # Validate
+      validate
+
+      exit
