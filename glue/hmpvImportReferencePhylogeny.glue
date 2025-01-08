@@ -1,0 +1,15 @@
+
+
+delete module hmpvPhyloImporter
+create module -t phyloImporter hmpvPhyloImporter
+
+module hmpvPhyloImporter
+
+  import phylogeny AL_HMPV_ROOT \
+  --recursive \
+  --anyAlignment \
+  --whereClause "sequence.source.name = 'ncbi-refseqs-hmpv' and referenceMember = false" \
+  --inputFile trees/hmpvReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS \
+  --fieldName phylogeny
+
+  exit

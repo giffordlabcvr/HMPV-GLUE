@@ -2,6 +2,9 @@
 
   # Basic modules
   create module -t tabularUtility  
+
+  # Data import
+  create module --fileName modules/hmpvSideDataImporterRefs.xml
   
   # Alignment
   create module -f modules/hmpvCompoundAligner.xml
