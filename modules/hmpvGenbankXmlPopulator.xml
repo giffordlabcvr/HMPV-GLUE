@@ -49,14 +49,6 @@
 			<propertyPopulator property="isolate_id"/>
 		</gbQualifier>
         
-		<gbQualifier name="country">
-			<propertyPopulator property="iso_country"/>
-			<propertyPopulator property="iso_region">
-				<matchPattern>^.*:(.*)$</matchPattern>
-				<outputTemplate>${g1?trim}</outputTemplate>
-			</propertyPopulator>
-		</gbQualifier>
-        
         <gbQualifier name="geo_loc_name">
             <propertyPopulator property="iso_country"/>
             <propertyPopulator property="iso_region">

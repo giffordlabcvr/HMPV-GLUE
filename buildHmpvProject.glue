@@ -18,17 +18,25 @@
       # Import reference sequences
       import source sources/ncbi-refseqs-hmpv
 
-      # Define reference sequences
-      run file glue/hmpvReference.glue
-    
-      # Import nuccore sequences
-      import source sources/ncbi-nuccore-hmpv
- 
-      # Import sequence-associated data
+      # Import reference sequence-associated data
       run file glue/hmpvLoadSequenceData.glue
 
+      # Define reference sequences
+      run file glue/hmpvReference.glue
+
+      # Import unconstrained alignment
+      run file glue/hmpvImportUnconstrainedAlignment.glue
+    
+      # Nuccore 
+      
+      # Import nuccore sequences
+      #import source sources/ncbi-nuccore-hmpv 
+
+      # Import sequence-associated data
+      #run file glue/hmpvLoadSequenceData.glue
+
       # Compute MSAs
-      run file glue/hmpvComputeAlignment.glue
+      #run file glue/hmpvComputeAlignment.glue
 
       # Validate
       validate

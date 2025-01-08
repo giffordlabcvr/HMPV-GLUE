@@ -1,0 +1,16 @@
+
+  #~# Build reference phylogeny
+
+  # Clean-up
+  
+  # Delete modules 
+  delete module hmpvNucsRaxmlPhylogenyGenerator
+  
+  # Create all the modules we need
+  create module -f modules/hmpvNucsRaxmlPhylogenyGenerator.xml
+
+  # Create the phylogeny (without outgroup)
+  module hmpvNucsRaxmlPhylogenyGenerator
+  
+    generate nucleotide phylogeny AL_UNC_ROOT_HMPV -a -o trees/hmpvReferencePhylogeny.tree NEWICK_BOOTSTRAPS
+    exit    

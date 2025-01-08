@@ -1,5 +1,15 @@
 
-    create reference REF_MASTER_HPMV ncbi-refseqs-hmpv AF371337
+    # Define references
+    
+    create reference REF_MASTER_HPMV ncbi-refseqs-hmpv AF371337  # A1
+    create reference REF_HPMV_A2a    ncbi-refseqs-hmpv KC403981  # A2a
+    create reference REF_HPMV_A2b1   ncbi-refseqs-hmpv KC562220  # A2b1
+    create reference REF_HPMV_A2b2   ncbi-refseqs-hmpv MN745058  # A2b2
+    create reference REF_HPMV_B1     ncbi-refseqs-hmpv MW221990  # B1
+    create reference REF_HPMV_B2     ncbi-refseqs-hmpv MW221994  # B2
+
+
+    # Feature locations
 
     reference REF_MASTER_HPMV
 
@@ -32,5 +42,4 @@
 
     add feature-location L
     feature-location L add segment 7167 13184
-
 

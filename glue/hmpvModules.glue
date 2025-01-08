@@ -5,6 +5,7 @@
   
   # Alignment
   create module -f modules/hmpvCompoundAligner.xml
+  create module -f modules/unconstrainedAlignmentImporter.xml
 
  # Genbank XML-Populator modules
   create module -f modules/hmpvGenbankXmlPopulator.xml

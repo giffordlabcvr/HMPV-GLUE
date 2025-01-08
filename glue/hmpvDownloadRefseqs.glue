@@ -6,4 +6,4 @@ create module -f modules/download/hmpvDownloadReferences.xml
 module hmpvDownloadReferences import
 
 # Export sources 
-export source hpmv-ncbi-refseqs
+export source ncbi-refseqs-hmpv

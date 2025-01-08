@@ -1,0 +1,9 @@
+  # Import unconstrained pre-built alignments
+
+  module unconstrainedAlignmentImporter
+
+    #~# Root-level
+    
+    import AL_UNC_ROOT_HMPV -f alignments/hmpv+outgroup.aln.fna
+             
+    exit
