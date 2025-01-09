@@ -32,9 +32,6 @@ Key Features
 -   **Variant Mapping**\
     Incorporates a map of amino acid substitutions, facilitating detailed genetic analysis.
 
--   **M49 Schema Extension**\
-    Includes a schema extension for standardized country and region annotations, enhancing data consistency.
-
 * * * * *
 
 Installation
