@@ -4,17 +4,17 @@
 
   alignment AL_HMPV_ROOT
   
-    demote member AL_HPMV              --whereClause "sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.species = 'HMPV'" 
-    demote member AL_APMV              --whereClause "sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.species = 'AMPV'" 
+    demote member AL_HMPV      --whereClause "sequence.length >= 500 and sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.species = 'HMPV'" 
+    demote member AL_APMV      --whereClause "sequence.length >= 500 and sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.species = 'AMPV'" 
 
     exit
 
 
   #~# Species level  
-  alignment AL_HPMV
+  alignment AL_HMPV
   
-    demote member AL_HMPV_A            --whereClause "sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.subtype = 'A'" 
-    demote member AL_HMPV_B            --whereClause "sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.subtype = 'B'" 
+    demote member AL_HMPV_A    --whereClause "sequence.length >= 500 and sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.subtype = 'A'" 
+    demote member AL_HMPV_B    --whereClause "sequence.length >= 500 and sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.subtype = 'B'" 
 
     exit
 
@@ -23,17 +23,17 @@
 
   alignment AL_HMPV_A
 
-    demote member AL_HMPV_A1           --whereClause "sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.genotype = 'A1'" 
-    demote member AL_HMPV_A2a          --whereClause "sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.genotype = 'A2a'" 
-    demote member AL_HMPV_A2b1         --whereClause "sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.genotype = 'A2b1'" 
-    demote member AL_HMPV_A2b2         --whereClause "sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.genotype = 'A2b2'" 
+    demote member AL_HMPV_A1   --whereClause "sequence.length >= 500 and sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.genotype = 'A1'" 
+    demote member AL_HMPV_A2a  --whereClause "sequence.length >= 500 and sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.genotype = 'A2a'" 
+    demote member AL_HMPV_A2b1 --whereClause "sequence.length >= 500 and sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.genotype = 'A2b1'" 
+    demote member AL_HMPV_A2b2 --whereClause "sequence.length >= 500 and sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.genotype = 'A2b2'" 
 
     exit
 
   alignment AL_HMPV_B
 
-    demote member AL_HMPV_B1           --whereClause "sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.genotype = 'B1'" 
-    demote member AL_HMPV_B2           --whereClause "sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.genotype = 'B2'" 
+    demote member AL_HMPV_B1   --whereClause "sequence.length >= 500 and sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.genotype = 'B1'" 
+    demote member AL_HMPV_B2   --whereClause "sequence.length >= 500 and sequence.source.name like 'ncbi-nuccore-hmpv%' and sequence.genotype = 'B2'" 
 
     exit
 

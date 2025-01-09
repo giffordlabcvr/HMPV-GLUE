@@ -1,6 +1,6 @@
   #~# Root
   
-  create alignment AL_HMPV_ROOT -r REF_MASTER_HPMV
+  create alignment AL_HMPV_ROOT -r REF_MASTER_HMPV
   alignment AL_HMPV_ROOT add member --allSequences
 
   alignment AL_HMPV_ROOT
@@ -8,8 +8,8 @@
     set field displayName "Metapneumovirus"
     set field clade_category "genus" 
   
-    extract child AL_HPMV        --refName REF_MASTER_HPMV
-    demote member AL_HPMV        --whereClause "sequence.species = 'HMPV'" 
+    extract child AL_HMPV        --refName REF_MASTER_HMPV
+    demote member AL_HMPV        --whereClause "sequence.species = 'HMPV'" 
 
     extract child AL_APMV        --refName REF_APMV
     demote member AL_APMV        --whereClause "sequence.species = 'AMPV'" 
@@ -19,15 +19,15 @@
 
   #~# Tip alignments (virus species level)  
 
-  alignment AL_HPMV
+  alignment AL_HMPV
 
     set field displayName "Human metapneumovirus"
     set field clade_category "species" 
   
-    extract child AL_HMPV_A             --refName REF_MASTER_HPMV
+    extract child AL_HMPV_A             --refName REF_MASTER_HMPV
     demote member AL_HMPV_A             --whereClause "sequence.subtype = 'A'" 
   
-    extract child AL_HMPV_B             --refName REF_HPMV_B1
+    extract child AL_HMPV_B             --refName REF_HMPV_B1
     demote member AL_HMPV_B             --whereClause "sequence.subtype = 'B'" 
 
     exit
@@ -37,16 +37,16 @@
     set field displayName "Human metapneumovirus subtype A"
     set field clade_category "subtype"  
 
-    extract child AL_HMPV_A1            --refName REF_MASTER_HPMV
+    extract child AL_HMPV_A1            --refName REF_MASTER_HMPV
     demote member AL_HMPV_A1            --whereClause "sequence.genotype = 'A1'" 
 
-    extract child AL_HMPV_A2a           --refName REF_HPMV_A2a
+    extract child AL_HMPV_A2a           --refName REF_HMPV_A2a
     demote member AL_HMPV_A2a           --whereClause "sequence.genotype = 'A2a'" 
 
-    extract child AL_HMPV_A2b1          --refName REF_HPMV_A2b1
+    extract child AL_HMPV_A2b1          --refName REF_HMPV_A2b1
     demote member AL_HMPV_A2b1          --whereClause "sequence.genotype = 'A2b1'" 
 
-    extract child AL_HMPV_A2b2          --refName REF_HPMV_A2b2
+    extract child AL_HMPV_A2b2          --refName REF_HMPV_A2b2
     demote member AL_HMPV_A2b2          --whereClause "sequence.genotype = 'A2b2'" 
 
     exit
@@ -56,10 +56,10 @@
     set field displayName "Human metapneumovirus subtype B"
     set field clade_category "subtype"  
 
-    extract child AL_HMPV_B1            --refName REF_HPMV_B1
+    extract child AL_HMPV_B1            --refName REF_HMPV_B1
     demote member AL_HMPV_B1            --whereClause "sequence.genotype = 'B1'" 
 
-    extract child AL_HMPV_B2            --refName REF_HPMV_B2
+    extract child AL_HMPV_B2            --refName REF_HMPV_B2
     demote member AL_HMPV_B2            --whereClause "sequence.genotype = 'B2'" 
  
     exit

@@ -1,45 +1,219 @@
 
     # Define references
     
-    create reference REF_MASTER_HPMV ncbi-refseqs-hmpv AF371337  # A1
-    create reference REF_HPMV_A2a    ncbi-refseqs-hmpv KC403981  # A2a
-    create reference REF_HPMV_A2b1   ncbi-refseqs-hmpv KC562220  # A2b1
-    create reference REF_HPMV_A2b2   ncbi-refseqs-hmpv MN745085  # A2b2
-    create reference REF_HPMV_B1     ncbi-refseqs-hmpv MW221990  # B1
-    create reference REF_HPMV_B2     ncbi-refseqs-hmpv MW221994  # B2
+    create reference REF_MASTER_HMPV ncbi-refseqs-hmpv AF371337  # A1
+    create reference REF_HMPV_A2a    ncbi-refseqs-hmpv KC403981  # A2a
+    create reference REF_HMPV_A2b1   ncbi-refseqs-hmpv KC562220  # A2b1
+    create reference REF_HMPV_A2b2   ncbi-refseqs-hmpv MN745085  # A2b2
+    create reference REF_HMPV_B1     ncbi-refseqs-hmpv MW221990  # B1
+    create reference REF_HMPV_B2     ncbi-refseqs-hmpv MW221994  # B2
     create reference REF_APMV        ncbi-refseqs-hmpv KC915036  # Avian
 
     # Feature locations
 
-    reference REF_MASTER_HPMV
+    reference REF_MASTER_HMPV
 
-    add feature-location whole_genome
-    feature-location whole_genome add segment 1 13350
-     
-    add feature-location NP
-    feature-location NP add segment 40 1224
+		add feature-location whole_genome
+		feature-location whole_genome add segment 1 13350
+	 
+		add feature-location N
+		feature-location N add segment 40 1224
 
-    add feature-location P
-    feature-location P add segment 1248 2132
-     
-    add feature-location M
-    feature-location M add segment 2165 2929
-     
-    add feature-location F
-    feature-location F add segment 3052 4671
-     
-    add feature-location M2_1
-    feature-location M2_1 add segment 4737 5300
-     
-    add feature-location M2_2
-    feature-location M2_2 add segment 5248 5463
-     
-    add feature-location SH
-    feature-location SH add segment 5494 6045
-     
-    add feature-location G
-    feature-location G add segment 6247 6957
+		add feature-location P
+		feature-location P add segment 1248 2132
+	 
+		add feature-location M
+		feature-location M add segment 2165 2929
+	 
+		add feature-location F
+		feature-location F add segment 3052 4671
+	 
+		add feature-location M2_1
+		feature-location M2_1 add segment 4737 5300
+	 
+		add feature-location M2_2
+		feature-location M2_2 add segment 5248 5463
+	 
+		add feature-location SH
+		feature-location SH add segment 5494 6045
+	 
+		add feature-location G
+		feature-location G add segment 6247 6957
 
-    add feature-location L
-    feature-location L add segment 7167 13184
+		add feature-location L
+		feature-location L add segment 7167 13184
+
+		exit
+		
+		
+    reference REF_HMPV_A2a
+
+		add feature-location whole_genome
+		feature-location whole_genome add segment 1 13315
+	 
+		add feature-location N
+		feature-location N add segment 39 1223
+
+		add feature-location P
+		feature-location P add segment 1247 2131
+	 
+		add feature-location M
+		feature-location M add segment 2164 2928
+	 
+		add feature-location F
+		feature-location F add segment 3053 4672
+	 
+		add feature-location M2_1
+		feature-location M2_1 add segment 4710 5273
+	 
+		add feature-location M2_2
+		feature-location M2_2 add segment 5221 5436
+	 
+		add feature-location SH
+		feature-location SH add segment 5467 6006
+	 
+		add feature-location G
+		feature-location G add segment 6218 6877
+
+		add feature-location L
+		feature-location L add segment 7119 13136
+
+		exit
+
+		
+    reference REF_HMPV_A2b1
+
+		add feature-location whole_genome
+		feature-location whole_genome add segment 1 13289
+	 
+		add feature-location N
+		feature-location N add segment 31 1215
+
+		add feature-location P
+		feature-location P add segment 1239 2123
+	 
+		add feature-location M
+		feature-location M add segment 2156 2920
+	 
+		add feature-location F
+		feature-location F add segment 3043 4662
+	 
+		add feature-location M2_1
+		feature-location M2_1 add segment 4700 5263
+	 
+		add feature-location M2_2
+		feature-location M2_2 add segment 5211 5426
+	 
+		add feature-location SH
+		feature-location SH add segment 5451 6008
+	 
+		add feature-location G
+		feature-location G add segment 6209 6895
+
+		add feature-location L
+		feature-location L add segment 7110 13127
+
+		exit
+
+    reference REF_HMPV_A2b2
+
+		add feature-location whole_genome
+		feature-location whole_genome add segment 1 13430
+	 
+		add feature-location N
+		feature-location N add segment 43 1227
+
+		add feature-location P
+		feature-location P add segment 1251 2135
+	 
+		add feature-location M
+		feature-location M add segment 2168 2932
+	 
+		add feature-location F
+		feature-location F add segment 3055 4674
+	 
+		add feature-location M2_1
+		feature-location M2_1 add segment 4712 5275
+	 
+		add feature-location M2_2
+		feature-location M2_2 add segment 5223 5438
+	 
+		add feature-location SH
+		feature-location SH add segment 5463 6020
+	 
+		add feature-location G
+		feature-location G add segment 6221 6985
+
+		add feature-location L
+		feature-location L add segment 7233 13250
+
+		exit
+
+    reference REF_HMPV_B1
+
+		add feature-location whole_genome
+		feature-location whole_genome add segment 1 13061
+	 
+		add feature-location N
+		feature-location N add segment 1 1155
+
+		add feature-location P
+		feature-location P add segment 1179 2063
+	 
+		add feature-location M
+		feature-location M add segment 2096 2860
+	 
+		add feature-location F
+		feature-location F add segment 2982 4601
+	 
+		add feature-location M2_1
+		feature-location M2_1 add segment 4613 5191
+	 
+		add feature-location M2_2
+		feature-location M2_2 add segment 5139 5354
+	 
+		add feature-location SH
+		feature-location SH add segment 5387 5920
+	 
+		add feature-location G
+		feature-location G add segment 6132 6857
+
+		add feature-location L
+		feature-location L add segment 7044 13061
+
+		exit
+
+    reference REF_HMPV_B2
+
+		add feature-location whole_genome
+		feature-location whole_genome add segment 1 13054
+	 
+		add feature-location N
+		feature-location N add segment 1 1155
+
+		add feature-location P
+		feature-location P add segment 1179 2063
+	 
+		add feature-location M
+		feature-location M add segment 2096 2860
+	 
+		add feature-location F
+		feature-location F add segment 2982 4604
+	 
+		add feature-location M2_1
+		feature-location M2_1 add segment 4616 5194
+	 
+		add feature-location M2_2
+		feature-location M2_2 add segment 5142 5357
+	 
+		add feature-location SH
+		feature-location SH add segment 5388 5921
+	 
+		add feature-location G
+		feature-location G add segment 6132 6848
+
+		add feature-location L
+		feature-location L add segment 7037 13054
+
+		exit
 

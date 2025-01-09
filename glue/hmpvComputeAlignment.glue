@@ -1,4 +1,4 @@
 
-    create alignment AL_HMPV_ROOT -r REF_MASTER_HPMV
+    create alignment AL_HMPV_ROOT -r REF_MASTER_HMPV
     alignment AL_HMPV_ROOT add member -w "source.name = 'ncbi-nuccore-hmpv'"
     compute alignment AL_HMPV_ROOT hmpvCompoundAligner

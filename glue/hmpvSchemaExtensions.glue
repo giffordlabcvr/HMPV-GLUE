@@ -47,16 +47,21 @@ schema-project hmpv
   #~# Create schema extension for amino acid replacements
 
   table hmpv_replacement
+  
     create field display_name VARCHAR
     create field codon_label VARCHAR
+    create field refseq_name VARCHAR
     create field reference_aa VARCHAR
     create field reference_nt INTEGER
     create field replacement_aa VARCHAR
     create field num_seqs INTEGER
+    create field grantham_distance_double DOUBLE
     create field grantham_distance_int INTEGER
     create field miyata_distance DOUBLE
     create field parent_feature VARCHAR
     exit
+
+
 
   #~# Extensions to alignment table
 

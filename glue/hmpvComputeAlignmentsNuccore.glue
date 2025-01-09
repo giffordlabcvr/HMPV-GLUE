@@ -1,0 +1,15 @@
+  #~# Compute tip alignments
+  
+  compute alignment AL_HMPV_A1   hmpvCompoundAligner
+  compute alignment AL_HMPV_A2a  hmpvCompoundAligner
+  compute alignment AL_HMPV_A2b1 hmpvCompoundAligner
+  compute alignment AL_HMPV_A2b2 hmpvCompoundAligner
+  compute alignment AL_HMPV_B1   hmpvCompoundAligner
+  compute alignment AL_HMPV_B2   hmpvCompoundAligner
+
+  #~# Compute internal alignments
+
+  #compute alignment AL_HMPV_A    hmpvCompoundAligner
+  #compute alignment AL_HMPV_B    hmpvCompoundAligner
+  #compute alignment AL_HMPV      hmpvCompoundAligner
+

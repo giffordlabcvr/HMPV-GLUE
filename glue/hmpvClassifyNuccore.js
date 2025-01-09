@@ -31,7 +31,7 @@ _.each(ncbiNuccore, function(ncbiNuccore) {
 
 	if (speciesResult) {
 
-		var species = speciesResult.replace("AL_", "");
+		var species = speciesResult.replace("AL_HMPV_", "");
 		glue.inMode("sequence/"+sourceName+"/"+sequenceID, function() {		
 			glue.command(["set", "field", "species", species]);
 		});
@@ -39,7 +39,7 @@ _.each(ncbiNuccore, function(ncbiNuccore) {
 	}
 	if (subtypeResult) {
 
-		var subtype = subtypeResult.replace("AL_", "");
+		var subtype = subtypeResult.replace("AL_HMPV_", "");
 		glue.inMode("sequence/"+sourceName+"/"+sequenceID, function() {
 			glue.command(["set", "field", "subtype", subtype]);
 		});
@@ -48,7 +48,7 @@ _.each(ncbiNuccore, function(ncbiNuccore) {
 
 	if (genotypeResult) {
 
-		var genotype = genotypeResult.replace("AL_", "");
+		var genotype = genotypeResult.replace("AL_HMPV_", "");
 		glue.inMode("sequence/"+sourceName+"/"+sequenceID, function() {
 			glue.command(["set", "field", "genotype", genotype]);
 		});

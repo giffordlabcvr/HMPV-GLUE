@@ -4,9 +4,9 @@
   create feature mRNA -p whole_genome "messengerRNA"
   feature mRNA set metatag INFORMATIONAL true
 
-  create feature NP -p whole_genome "Nucleoprotein"
-  feature NP
-    set field displayName "NP"
+  create feature N -p whole_genome "Nucleoprotein"
+  feature N
+    set field displayName "N"
     set metatag OWN_CODON_NUMBERING true
     set metatag CODES_AMINO_ACIDS true
     #set metatag CODON_LABELER_MODULE filoviridaeKuiken2006CodonLabeler

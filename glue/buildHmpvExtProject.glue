@@ -8,7 +8,7 @@
       #run script glue/hmpvClassifyNuccore.js
 
       # Import sequence-associated data for nuccore sequences
-      module hmpvGenbankXmlPopulator populate -w "source.name = 'ncbi-nuccore-hmpv'"
+	  run file glue/hmpvLoadSequenceDataNuccore.glue
 
 	  # Add nuccore sequences to alignment tree
 	  run file glue/hmpvAlignmentTreeNuccore.glue
