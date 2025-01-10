@@ -3,7 +3,7 @@ HMPV-GLUE
 
 <img src="md/hmpv-glue-logo.png" align="right" alt="" width="250" />
 
-Welcome to the GitHub repository for **HMPV-GLUE**, and open resource supporting phylogenomic analysis of Human Metapneumovirus (HMPV).
+Welcome to the GitHub repository for **HMPV-GLUE**, an open resource supporting phylogenomic analysis of Human Metapneumovirus (HMPV).
 
 **HMPV-GLUE** is a sequence-oriented resource for comparative genomic analysis of Human Metapneumovirus (HMPV), developed using the [**GLUE**](https://github.com/giffordlabcvr/gluetools) software framework.
 
